@@ -50,6 +50,20 @@ return array(
                     ),
                 ),
             ),
+            'ablum'=>array(
+                'type'=>'segment',
+                'options'=>array(
+                    'route'=>'/Index[/:action]',
+                    'constraints'=>array(
+                        'action'=>'[a-zA-Z]'
+                    ),
+                    'defaults'=>array(
+                        '__NAMESPACE__' => 'Album\Controller',
+                        'controller'=>'Index',
+                        'action'=>'index'
+                    ),
+                ),
+            ),
         ),
     ),
     'service_manager' => array(
