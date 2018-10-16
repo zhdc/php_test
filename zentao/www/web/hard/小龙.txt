@@ -1,0 +1,110 @@
+System Information: 
+      Computer Name = DESKTOP-4MGFH3N
+      OS       Type = Windows 10 教育版 64-bit (10.0, Build 16299) (16299.rs3_release.170928-1534)
+      System  Model = C.H110M-K PRO
+      CPU     Model = Intel(R) Pentium(R) CPU G4560 @ 3.50GHz (4 CPUs), ~3.5GHz
+      RAM      Size = 4096MB RAM
+DisplayCard : 
+      Display  Card = Intel(R) HD Graphics 610
+      DisplayMemory = 2116 MB
+Mother Board:
+      Manufacturer     =Colorful Technology And Development Co.,LTD
+      MotherBoard Model=C.H110M-K PRO
+Hard Disk: 
+      Model=WDC WD10EZEX-60WN4A0
+      Size=1000202273280
+      
+      
+      
+Network Card:
+     NetCard Model = Realtek PCIe GBE Family Controller
+     NetCard Model = TAP-Windows Adapter V9
+     MAC Address = 00-CF-E0-43-53-FB
+     MAC Address = 00-FF-02-29-EB-43
+     IP Address =  192.168.0.129(首选) 
+
+Software Information:
+Microsoft Visio 专业版 2016
+PremiumSoft Navicat Premium 11.2
+Sublime Text Build 3143
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+Microsoft Visual C++ 2017 x64 Additional Runtime - 14.12.25810
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61135
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.7523
+Intel? Hardware Accelerated Execution Manager
+Microsoft Office Proofing Tools 2016 - English
+Microsoft Office 校对工具 2016 - 简体中文
+Microsoft Office Proofing (Chinese (Simplified)) 2016
+Microsoft Visio Professional 2016
+Microsoft Visio MUI (Chinese (Simplified)) 2016
+Microsoft Office Shared MUI (Chinese (Simplified)) 2016
+Microsoft Office 32-bit Components 2016
+Microsoft Office Shared 32-bit MUI (Chinese (Simplified)) 2016
+Microsoft Office OSM MUI (Chinese (Simplified)) 2016
+Microsoft Visual C++ 2005 Redistributable (x64)
+Microsoft Visual C++ 2017 x64 Minimum Runtime - 14.12.25810
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61135
+TortoiseSVN 1.9.7.27907 (64 bit)
+Wampserver64 3.0.4
+360压缩 
+360安全卫士 
+Adobe Flash Player 29 PPAPI
+百度输入法 
+Google Chrome
+JetBrains PhpStorm 172.3757.60
+TeamViewer 13
+TIM 
+微信 
+XMind 8 Update 6 (v3.7.6)
+腾讯QQ 
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664
+Microsoft Visual C++ 2017 Redistributable (x86) - 14.12.25810
+Google Update Helper
+Microsoft Visual C++ 2005 Redistributable
+Composer - Php Dependency Manager
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.12.25810
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.12.25810
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729
+Mockplus 版本 3.3.1.2
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.7523
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+Sybase PowerDesigner 16.5
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61135
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61135
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664
+Microsoft Visual C++ 2017 Redistributable (x64) - 14.12.25810
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+Intel(R) Processor Graphics
+人行征信中心密码控件IE版 
+人行征信中心密码控件非插件版 
+微信web开发者工具 1.02.1803210
+百度网盘 
+网易云音乐 
+网易有道词典 
+银联安全控件IE版 1.0.0.9
+360极速浏览器
+WPS Office (10.1.0.7400)
+Postman-win64-6.3.0
+快资讯
+USB Information:
+    USB is Open,Please Tag It.
+Language Code:
+    Language:gbk
+Admin Users:
+      Administrator
+      JueSha
+Power Users:
+
+FileShare Information:
+ C$           C:\                             默认共享                          
+ D$           D:\                             默认共享                          
+ E$           E:\                             默认共享                          
+ F$           F:\                             默认共享                          
+ IPC$                                         远程 IPC                          
+ ADMIN$       C:\Windows                      远程管理                          

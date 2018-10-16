@@ -1,0 +1,135 @@
+System Information: 
+      Computer Name = LOCALHOST
+      OS       Type = Windows 10 专业版 64-bit (10.0, Build 16299) (16299.rs3_release.170928-1534)
+      System  Model = X441UVK
+      CPU     Model = Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz (4 CPUs), ~2.7GHz
+      RAM      Size = 8192MB RAM
+DisplayCard : 
+      Display  Card = Intel(R) HD Graphics 620
+      DisplayMemory = 4164 MB
+Mother Board:
+      Manufacturer     =ASUSTeK COMPUTER INC.
+      MotherBoard Model=X441UVK
+Hard Disk: 
+      Model=HFS256G32TND-N210A
+      Size=256052966400
+      
+      
+      
+Network Card:
+     NetCard Model = Realtek PCIe FE Family Controller
+     NetCard Model = TAP-Windows Adapter V9
+     NetCard Model = VMware Virtual Ethernet Adapter for VMnet1
+     NetCard Model = VMware Virtual Ethernet Adapter for VMnet8
+     NetCard Model = Realtek RTL8723BE Wireless LAN 802.11n PCI-E NIC
+     MAC Address = FA-28-19-26-EC-2E
+     MAC Address = 10-7B-44-DC-C7-9D
+     MAC Address = 00-FF-C2-3E-86-D7
+     MAC Address = 00-50-56-C0-00-01
+     MAC Address = 00-50-56-C0-00-08
+     MAC Address = F8-28-19-26-EC-2E
+     IP Address =  192.168.0.136(首选) 
+     IP Address =  169.254.187.160(首选) 
+     IP Address =  169.254.245.209(首选) 
+
+Software Information:
+7-Zip 18.05 (x64)
+Notepad++ (64-bit x64)
+OpenSSL 1.1.0h (64-bit)
+PremiumSoft Navicat Premium 11.2
+VLC media player
+Python 3.6.4 Executables (64-bit)
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+Microsoft Visual C++ 2017 x64 Additional Runtime - 14.12.25810
+Python 3.6.4 Add to Path (64-bit)
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+Python 3.6.4 pip Bootstrap (64-bit)
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+Java SE Development Kit 8 Update 152 (64-bit)
+Microsoft Visual Studio Installer
+Python 3.6.4 Utility Scripts (64-bit)
+Python 3.6.4 Development Libraries (64-bit)
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005
+VMware Workstation
+Ansel 
+NVIDIA 控制面板 382.53
+NVIDIA 图形驱动程序 382.53
+NVIDIA Install Application
+NVIDIA Display Container
+NVIDIA Display Container LS
+NVIDIA Display Watchdog Plugin
+NVIDIA Display Session Container
+Python 3.6.4 Core Interpreter (64-bit)
+Python 3.6.4 Standard Library (64-bit)
+Microsoft Visual C++ 2017 x64 Minimum Runtime - 14.12.25810
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+Microsoft SQL Server 2008 R2 Native Client
+Node.js 
+Python 3.6.4 Tcl/Tk Support (64-bit)
+TortoiseSVN 1.9.7.27907 (64 bit)
+Total Control / TC Games     
+2345看图王 
+360安全卫士 
+Adobe Flash Player 30 NPAPI
+Adobe Flash Player 30 PPAPI
+FileZilla Client 3.31.0
+Mozilla Firefox 52.5.3esr (x86 zh-CN)
+PL/SQL Developer 11.0.6.1776
+QQ浏览器 
+Redis Desktop Manager
+财付通安全控件 2.0.2.8
+迅雷 
+TIM 
+UltraISO Premium V9.71
+微信 
+WinPcap 4.1.3
+Wireshark 2.4.5 64-bit
+XMind 8 Update 7 (v3.7.7)
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.30319
+QQ浏览器 (控制面板无法卸载，由360提供卸载)
+Microsoft Visual C++ 2017 Redistributable (x86) - 14.12.25810
+Realtek Card Reader
+Brother MFL-Pro Suite DCP-1618W
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.12.25810
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.12.25810
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729
+Mockplus 版本 3.2.8
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+Python Launcher
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+Microsoft Visual C++ 2017 Redistributable (x64) - 14.12.25810
+Intel(R) Processor Graphics
+Realtek High Definition Audio Driver
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005
+工商软证书客户端驱动 
+钉钉 
+银联安全控件IE版 1.0.0.9
+360安全浏览器
+Progress Telerik Fiddler
+Google Chrome
+WPS Office (10.1.0.7469)
+Postman-win64-6.0.10
+Python 3.6.4 (64-bit)
+Microsoft Visual Studio Code (User)
+USB Information:
+    USB is Open,Please Tag It.
+Language Code:
+    Language:gbk
+Admin Users:
+      Administrator
+      Luke
+Power Users:
+
+FileShare Information:
+ C$           C:\                             默认共享                          
+ D$           D:\                             默认共享                          
+ IPC$                                         远程 IPC                          
+ ADMIN$       C:\Windows                      远程管理                          
+ web          D:\web                          

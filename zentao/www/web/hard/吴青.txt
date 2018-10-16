@@ -1,0 +1,135 @@
+System Information: 
+      Computer Name = JTWM
+      OS       Type = Windows 10 家庭中文版 64-bit (10.0, Build 16299) (16299.rs3_release_svc_escrow.180502-1908)
+      System  Model = C.H110M-K PRO
+      CPU     Model = Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz (4 CPUs), ~3.9GHz
+      RAM      Size = 8192MB RAM
+DisplayCard : 
+      Display  Card = Intel(R) HD Graphics 630
+      DisplayMemory = 4164 MB
+Mother Board:
+      Manufacturer     =Colorful Technology And Development Co.,LTD
+      MotherBoard Model=C.H110M-K PRO
+Hard Disk: 
+      Model=Colorful SL300 120GB
+      Size=120031511040
+      
+      
+      
+Network Card:
+     NetCard Model = Realtek PCIe GBE Family Controller #10
+     MAC Address = 00-CF-E0-44-EB-C6
+     IP Address =  192.168.0.113(首选) 
+
+Software Information:
+Vulkan Run Time Libraries 1.0.33.0
+Vulkan Run Time Libraries 1.0.61.0
+Vulkan Run Time Libraries 1.0.65.1
+Vulkan Run Time Libraries 1.0.65.1
+WinRAR 5.50 (64-位)
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+Microsoft Visual C++ 2017 x64 Additional Runtime - 14.12.25810
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61135
+Node.js 
+UpdateAssistant 
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664
+Windows Setup Remediations (x64) (KB4023057)
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.7523
+Microsoft Visual C++ 2005 Redistributable (x64)
+Microsoft HEVC Media Extension Installation for Microsoft.HEVCVideoExtension_1.0.2512.0_x64__8wekyb3d8bbwe (x64)
+NVIDIA Ansel
+NVIDIA 控制面板 388.13
+NVIDIA 图形驱动程序 388.13
+NVIDIA GeForce Experience 3.10.0.95
+NVIDIA 3D Vision 控制器驱动程序 369.04
+NVIDIA Optimus Update 29.1.0.0
+NVIDIA PhysX 系统软件 9.17.0524
+NVIDIA 更新 29.1.0.0
+NVIDIA SHIELD Streaming
+NVIDIA HD 音频驱动程序 1.3.35.1
+NVIDIA Install Application
+NVIDIA Backend
+NVIDIA Container
+NVIDIA TelemetryApi helper for NvContainer
+NVIDIA LocalSystem Container
+NVIDIA Message Bus for NvContainer
+NVIDIA NetworkService Container
+NVIDIA Session Container
+NVIDIA User Container
+NVIDIA Display Container
+NVIDIA Display Container LS
+NVIDIA Display Watchdog Plugin
+NVIDIA Display Session Container
+NVIDIA NodeJS
+NVIDIA Watchdog Plugin for NvContainer
+NVIDIA Telemetry Client
+NVIDIA Telemetry Container
+NVIDIA Virtual Host Controller
+Nvidia Share
+NVIDIA ShadowPlay 3.10.0.95
+NVIDIA SHIELD Wireless Controller Driver
+NVIDIA Update Core
+NVIDIA Virtual Audio 4.02.2
+Microsoft Visual C++ 2017 x64 Minimum Runtime - 14.12.25810
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61135
+Bonjour 
+Microsoft Visual Studio Code
+Update for Windows 10 for x64-based Systems (KB4023057)
+TortoiseSVN 1.9.7.27907 (64 bit)
+Wampserver64 3.0.4
+360壁纸 
+360安全卫士 
+Adobe AIR
+PxCook 
+爱奇艺万能播放器 
+Mozilla Firefox 52.7.3esr (x86 zh-CN)
+Mozilla Maintenance Service
+JetBrains PhpStorm 2017.3.4
+QQ音乐2017 
+搜狗输入法 9.0正式版
+TIM 
+JetBrains WebStorm 2017.3.4
+微信 
+XMind 8 Update 7 (v3.7.7)
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+osrss 
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664
+Microsoft Visual C++ 2017 Redistributable (x86) - 14.12.25810
+PxCook 
+Microsoft Visual C++ 2005 Redistributable
+Adobe AIR
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.12.25810
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.12.25810
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.7523
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.51106
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61135
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61135
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664
+Microsoft Visual C++ 2017 Redistributable (x64) - 14.12.25810
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+Realtek High Definition Audio Driver
+微信web开发者工具 1.02.1803210
+网易有道词典 
+Google Chrome
+WPS Office (10.1.0.7469)
+Mozilla Firefox 52.8.0 ESR (x86 zh-CN)
+Postman-win64-6.0.10
+USB Information:
+    USB is Open,Please Tag It.
+Language Code:
+    Language:gbk
+Admin Users:
+      Administrator
+      pc
+Power Users:
+
+FileShare Information:
+ C$           C:\                             默认共享                          
+ D$           D:\                             默认共享                          
+ IPC$                                         远程 IPC                          
+ ADMIN$       C:\WINDOWS                      远程管理                          

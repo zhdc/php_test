@@ -1,0 +1,119 @@
+System Information: 
+      Computer Name = DESKTOP-S9HUS77
+      OS       Type = Windows 10 家庭中文版 64-bit (10.0, Build 17134) (17134.rs4_release.180410-1804)
+      System  Model = UX310UAK
+      CPU     Model = Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz (4 CPUs), ~2.4GHz
+      RAM      Size = 4096MB RAM
+DisplayCard : 
+      Display  Card = Intel(R) HD Graphics 620
+      DisplayMemory = 2117 MB
+Mother Board:
+      Manufacturer     =ASUSTeK COMPUTER INC.
+      MotherBoard Model=UX310UAK
+Hard Disk: 
+      Model=SAMSUNG MZNTY128HDHP-00000
+      Size=128034708480
+      
+      
+      
+Network Card:
+     NetCard Model = TAP-Windows Adapter V9
+     NetCard Model = TAP-Windows Adapter V9 #2
+     NetCard Model = Intel(R) Dual Band Wireless-AC 8260
+     MAC Address = 1E-4D-70-EC-8B-55
+     MAC Address = 1C-4D-70-EC-8B-56
+     MAC Address = 00-FF-D9-AE-50-25
+     MAC Address = 00-FF-D4-2B-2E-C9
+     MAC Address = 1C-4D-70-EC-8B-55
+     IP Address =  192.168.0.115(首选) 
+
+Software Information:
+Conexant HD Audio
+Windows 驱动程序包 - ASUS (AsusPTPDrv) HIDClass  (09/23/2016 11.0.0.14)
+Mozilla Maintenance Service
+Intel(R) Management Engine Components
+Intel? PROSet/Wireless WiFi Software
+Intel? Trusted Connect Service Client
+Intel(R) Chipset Device Software
+Microsoft VC++ redistributables repacked.
+Intel(R) Management Engine Components
+Intel(R) Serial IO
+Microsoft Visual C++ 2015 x64 Minimum Runtime - 14.0.23506
+Update for Windows 10 for x64-based Systems (KB4023057)
+Intel(R) Serial IO
+Microsoft HEVC Media Extension Installation for Microsoft.HEVCVideoExtension_1.0.2512.0_x64__8wekyb3d8bbwe (x64)
+Microsoft Visual C++ 2015 x64 Additional Runtime - 14.0.23506
+Intel(R) PRO/Wireless Driver
+UpdateAssistant 
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.30319
+Intel(R) Management Engine Components
+TortoiseSVN 1.9.7.27907 (64 bit)
+360驱动大师 
+360压缩 
+360安全卫士 
+Adobe Flash Player 30 NPAPI
+Axure RP 8
+Google Chrome
+Alcor Micro USB Card Reader Driver
+Mozilla Firefox 62.0 (x86 zh-CN)
+腾讯视频 
+QQ拼音输入法6.0 
+迅雷 
+TIM 
+U盘数据恢复大师 
+微信 
+XMind 8 Update 7 (v3.7.7)
+Realtek USB Ethernet Controller All-In-One Windows Driver
+Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.23506
+Microsoft VC++ redistributables repacked.
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.30319
+osrss 
+Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.23506
+Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.23506
+ASUS GIFTBOX Desktop
+AudioWizard 
+英特尔? PROSet/无线软件
+Google Update Helper
+英特尔? 芯片组设备软件
+Intel(R) Dynamic Platform and Thermal Framework
+Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.23506
+Microsoft Visual C++ 2005 Redistributable
+虾米音乐版本3.1.2 
+ASUS PTP Driver
+Alcor Micro USB Card Reader Driver
+Axure RP 8
+Intel? Security Assist
+Device Setup
+WinFlash 
+ASUS USB Charger Plus
+ATK Package
+英特尔(R) 无线 Bluetooth(R)
+Intel(R) Processor Graphics
+ASUS Live Update
+Evernote v. 6.11.2
+亿图图示 9.1
+百度网盘 
+网易云音乐 
+阿里旺旺 
+360安全浏览器
+支付宝数字证书组件 2.6.0.0
+f.lux
+WPS Office (10.1.0.7469)
+Microsoft OneDrive
+美图看看 2.7.8 安全版
+迅雷游戏盒子
+USB Information:
+    USB is Open,Please Tag It.
+Language Code:
+    Language:gbk
+Admin Users:
+      Administrator
+      cole
+Power Users:
+
+FileShare Information:
+ C$           C:\                             默认共享                          
+ D$           D:\                             默认共享                          
+ F$           F:\                             默认共享                          
+ IPC$                                         远程 IPC                          
+ ADMIN$       C:\WINDOWS                      远程管理                          

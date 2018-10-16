@@ -1,0 +1,121 @@
+System Information: 
+      Computer Name = DESKTOP-MQRUIN6
+      OS       Type = Windows 10 教育版 64-bit (10.0, Build 16299) (16299.rs3_release.170928-1534)
+      System  Model = C.H110M-K PRO
+      CPU     Model = Intel(R) Pentium(R) CPU G4560 @ 3.50GHz (4 CPUs), ~3.5GHz
+      RAM      Size = 4096MB RAM
+DisplayCard : 
+      Display  Card = Intel(R) HD Graphics 610
+      DisplayMemory = 2116 MB
+Mother Board:
+      Manufacturer     =Colorful Technology And Development Co.,LTD
+      MotherBoard Model=C.H110M-K PRO
+Hard Disk: 
+      Model=WDC WD10EZEX-22MFCA0
+      Size=1000202273280
+      
+      
+      
+Network Card:
+     NetCard Model = Hyper-V Virtual Ethernet Adapter
+     NetCard Model = Realtek PCIe GBE Family Controller
+     NetCard Model = TAP-Windows Adapter V9
+     NetCard Model = VMware Virtual Ethernet Adapter for VMnet1
+     NetCard Model = VMware Virtual Ethernet Adapter for VMnet8
+     NetCard Model = TAP-Windows Adapter V9 #2
+     MAC Address = C6-15-A8-14-34-6B
+     MAC Address = 00-CF-E0-43-C2-C4
+     MAC Address = 00-FF-54-3B-29-3B
+     MAC Address = 00-50-56-C0-00-01
+     MAC Address = 00-50-56-C0-00-08
+     MAC Address = 00-FF-92-D4-79-FA
+     IP Address =  172.24.111.49(首选) 
+     IP Address =  192.168.0.150(首选) 
+     IP Address =  192.168.247.1(首选) 
+     IP Address =  192.168.59.1(首选) 
+
+Software Information:
+360安全卫士 
+企鹅游戏中心_1.3.544 
+爱思助手7.0 
+Mozilla Firefox 52.9.0 ESR (x86 zh-CN)
+Mozilla Maintenance Service
+Notepad++ (32-bit x86)
+Tencent QQMail Plugin
+QQ音乐 
+迅雷 
+TIM 
+同步助手 3.4.7.0
+微信 
+XMind 8 Update 7 (v3.7.7)
+XnView 2.45
+腾讯QQ 
+MySQL Examples and Samples 5.7
+Qzone相册极速上传工具 (控制面板无法卸载，由360提供卸载)
+MySQL Documents 5.7
+MySQL Installer - Community
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148
+Java Auto Updater
+MySQL Notifier 1.1.7
+Mockplus 版本 3.2.9
+Apple Software Update
+腾讯下载助手 (控制面板无法卸载，由360提供卸载)
+MySQL Connector J
+Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.24215
+MySQL Connector Net 6.9.9
+Apple 应用程序支持 (32 位)
+百度网盘 
+网易云音乐 
+钉钉 
+360安全卫士 
+企鹅游戏中心_1.3.544 
+爱思助手7.0 
+Mozilla Firefox 52.9.0 ESR (x86 zh-CN)
+Mozilla Maintenance Service
+Notepad++ (32-bit x86)
+Tencent QQMail Plugin
+QQ音乐 
+迅雷 
+TIM 
+同步助手 3.4.7.0
+微信 
+XMind 8 Update 7 (v3.7.7)
+XnView 2.45
+腾讯QQ 
+MySQL Examples and Samples 5.7
+Qzone相册极速上传工具 (控制面板无法卸载，由360提供卸载)
+MySQL Documents 5.7
+MySQL Installer - Community
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148
+Java Auto Updater
+MySQL Notifier 1.1.7
+Mockplus 版本 3.2.9
+Apple Software Update
+腾讯下载助手 (控制面板无法卸载，由360提供卸载)
+MySQL Connector J
+Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.24215
+MySQL Connector Net 6.9.9
+Apple 应用程序支持 (32 位)
+百度网盘 
+网易云音乐 
+钉钉 
+Progress Telerik Fiddler
+Fiddler2 CertMaker
+Google Chrome
+Postman-win64-6.0.10
+USB Information:
+    USB is Open,Please Tag It.
+Language Code:
+    Language:gbk
+Admin Users:
+      Administrator
+      JueSha
+Power Users:
+
+FileShare Information:
+ C$           C:\                             默认共享                          
+ D$           D:\                             默认共享                          
+ E$           E:\                             默认共享                          
+ F$           F:\                             默认共享                          
+ IPC$                                         远程 IPC                          
+ ADMIN$       C:\Windows                      远程管理                          

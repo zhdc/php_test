@@ -1,0 +1,97 @@
+System Information: 
+      Computer Name = XS-20171001NLVU
+      OS       Type = Windows 10 企业版 64-bit (10.0, Build 15063) (15063.rs2_release.170317-1834)
+      System  Model = Default string
+      CPU     Model = Intel(R) Pentium(R) CPU G4400 @ 3.30GHz (2 CPUs), ~3.3GHz
+      RAM      Size = 4096MB RAM
+DisplayCard : 
+      Display  Card = Intel(R) HD Graphics 510
+      DisplayMemory = 1897 MB
+Mother Board:
+      Manufacturer     =Colorful Technology And Development Co.,LTD
+      MotherBoard Model=C.B150M-D
+Hard Disk: 
+      Model=WDC WD10EZEX-75WN4A0
+      Size=1000202273280
+      
+      
+      
+Network Card:
+     NetCard Model = Realtek PCIe GBE Family Controller
+     NetCard Model = TAP-Windows Adapter V9
+     MAC Address = 00-E0-70-3C-15-9A
+     MAC Address = 00-FF-81-2C-3E-AF
+     IP Address =  192.168.0.145(首选) 
+
+Software Information:
+PremiumSoft Navicat Premium 11.2
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.7523
+Mockplus版本3.2.5 
+Microsoft Visual C++ 2017 x64 Minimum Runtime - 14.10.25017
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005
+Microsoft Visual C++ 2005 Redistributable (x64)
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+Microsoft Visual C++ 2017 x64 Additional Runtime - 14.10.25017
+TortoiseSVN 1.9.7.27907 (64 bit)
+看图王 - 2345
+王牌输入法 - 2345
+360压缩 
+360安全卫士 
+Axure RP 8
+招行U-BANK 
+Foxmail 
+Notepad++ 
+QQ音乐2017 
+财付通安全控件 2.0.2.8
+TIM 
+微信 
+XMind 8 Update 5 (v3.7.5)
+腾讯QQ 
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+CAJViewer 
+BCL easyConverter SDK 5 Word
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.10.25017
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.10.25017
+Microsoft Visual C++ 2005 Redistributable
+Axure RP 8
+Mockplus 版本 3.2.8
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.7523
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+Microsoft Visual C++ 2017 Redistributable (x86) - 14.10.25017
+Microsoft Visual C++ 2017 Redistributable (x64) - 14.10.25017
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+Realtek High Definition Audio Driver
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005
+亿图图示专家 
+百度网盘 
+360安全浏览器
+Google Chrome
+MockingBot
+小孩桌面便签
+蓝月传奇
+USB Information:
+    USB is Open,Please Tag It.
+Language Code:
+    Language:gbk
+Admin Users:
+      Administrator
+Power Users:
+
+FileShare Information:
+ C$           C:\                             默认共享                          
+ D$           D:\                             默认共享                          
+ E$           E:\                             默认共享                          
+ F$           F:\                             默认共享                          
+ G$           G:\                             默认共享                          
+ IPC$                                         远程 IPC                          
+ print$       C:\Windows\system32\spool\drivers
+ 打印机驱动程序                    
+ ADMIN$       C:\Windows                      远程管理                          

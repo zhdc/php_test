@@ -1,0 +1,102 @@
+System Information: 
+      Computer Name = P-V-10
+      OS       Type = Windows 10 专业版 64-bit (10.0, Build 16299) (16299.rs3_release.170928-1534)
+      System  Model = C.H110M-K PRO
+      CPU     Model = Intel(R) Pentium(R) CPU G4560 @ 3.50GHz (4 CPUs), ~3.5GHz
+      RAM      Size = 4096MB RAM
+DisplayCard : 
+      Display  Card = Intel(R) HD Graphics 610
+      DisplayMemory = 2116 MB
+Mother Board:
+      Manufacturer     =Colorful Technology And Development Co.,LTD
+      MotherBoard Model=C.H110M-K PRO
+Hard Disk: 
+      Model=WDC WD10EZEX-21WN4A0
+      Size=1000202273280
+      
+      
+      
+Network Card:
+     NetCard Model = Realtek PCIe GBE Family Controller #2
+     MAC Address = 00-CF-E0-43-C3-DB
+     IP Address =  192.168.0.104(首选) 
+
+Software Information:
+Notepad++ (64-bit x64)
+PremiumSoft Navicat Premium 11.2
+Vulkan Run Time Libraries 1.0.54.1
+Vulkan Run Time Libraries 1.0.54.1
+Microsoft Visual C++ 2005 Redistributable (x64)
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+MySQL Router 2.1
+Java 8 Update 181 (64-bit)
+Microsoft Visual C++ 2017 x64 Additional Runtime - 14.12.25810
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.7523
+TortoiseSVN 1.9.4.27285 (64 bit)
+Java SE Development Kit 8 Update 181 (64-bit)
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005
+Microsoft Visual C++ 2005 Redistributable (x64)
+MySQL Server 8.0
+Microsoft Visual C++ 2017 x64 Minimum Runtime - 14.12.25810
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+Charles 4.2.6
+360压缩 
+360安全卫士 
+Adobe Creative Cloud
+Adobe Photoshop CC 2018
+搜狗输入法 9.0正式版
+微信 
+XMind 8 Update 4 (v3.7.4)
+腾讯QQ 
+Microsoft_VC90_CRT_x86 
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148
+Java Auto Updater
+MySQL Installer - Community
+Microsoft Visual C++ 2017 Redistributable (x86) - 14.12.25810
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501
+Microsoft Visual C++ 2005 Redistributable
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.12.25810
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.12.25810
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729
+Microsoft_VC80_CRT_x86 
+MySQL Examples and Samples 8.0
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.7523
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+MySQL Connector J
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+MySQL Documents 8.0
+MySQL Installer - Community
+Microsoft Visual C++ 2017 Redistributable (x64) - 14.12.25810
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005
+百度网盘 
+钉钉 
+360安全浏览器
+Progress Telerik Fiddler
+Google Chrome
+WPS Office (10.1.0.7106)
+Postman-win64-6.3.0
+USB Information:
+    USB is Open,Please Tag It.
+Language Code:
+    Language:gbk
+Admin Users:
+      Administrator
+Power Users:
+
+FileShare Information:
+ C$           C:\                             默认共享                          
+ D$           D:\                             默认共享                          
+ E$           E:\                             默认共享                          
+ F$           F:\                             默认共享                          
+ IPC$                                         远程 IPC                          
+ ADMIN$       C:\windows                      远程管理                          

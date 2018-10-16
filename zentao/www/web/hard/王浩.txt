@@ -1,0 +1,210 @@
+System Information: 
+      Computer Name = P-V-12
+      OS       Type = Windows 10 专业版 64-bit (10.0, Build 16299) (16299.rs3_release.170928-1534)
+      System  Model = C.H110M-K PRO
+      CPU     Model = Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz (4 CPUs), ~3.9GHz
+      RAM      Size = 8192MB RAM
+DisplayCard : 
+      Display  Card = Intel(R) HD Graphics 630
+      DisplayMemory = 4165 MB
+Mother Board:
+      Manufacturer     =Colorful Technology And Development Co.,LTD
+      MotherBoard Model=C.H110M-K PRO
+Hard Disk: 
+      Model=WDC WD10EZEX-08WN4A0
+      Size=1000202273280
+      
+      
+      
+Network Card:
+     NetCard Model = Hyper-V Virtual Ethernet Adapter
+     NetCard Model = Realtek PCIe GBE Family Controller #2
+     NetCard Model = TAP-Windows Adapter V9
+     MAC Address = C6-15-A8-2F-8D-28
+     MAC Address = 00-CF-E0-45-00-2E
+     MAC Address = 00-FF-5E-D5-C0-50
+     IP Address =  172.21.9.65(首选) 
+     IP Address =  192.168.0.110(首选) 
+
+Software Information:
+Git version 2.17.0
+Microsoft Azure Compute Emulator - v2.9.5.3
+Notepad++ (64-bit x64)
+PremiumSoft Navicat Premium 11.2
+Vulkan Run Time Libraries 1.0.61.0
+Vulkan Run Time Libraries 1.0.61.0
+Vulkan Run Time Libraries 1.0.61.0
+用于 SQL Server 的 Active Directory Authentication Library
+Microsoft .NET Core SDK - 2.1.4 (x64)
+Microsoft SQL Server 2016 LocalDB
+Microsoft Visual C++ 2005 Redistributable (x64)
+IIS Express Application Compatibility Database for x64
+Microsoft Azure Authoring Tools - v2.9.5.3
+Microsoft Visual Studio Team Foundation Server 2017 RC Office Integration Language Pack (x64) - ENU
+VS Script Debugging Common
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+Microsoft Web Deploy 4.0
+VS WCF Debugging
+Microsoft Visual Studio Team Foundation Server 2017 RC Office Integration (x64)
+Microsoft Visual C++ 2017 x64 Additional Runtime - 14.12.25810
+Microsoft ASP.NET Core 2.0.6 Runtime Package Store (x64)
+Microsoft .NET Core 1.1.7 - Host FX Resolver (x64)
+Microsoft .NET Core Host - 2.0.5 (x64)
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+.NET Core SDK 1.1.8 (x64)
+Microsoft .NET Core 1.0.10 - Host FX Resolver (x64)
+IntelliTraceProfilerProxy 
+DiagnosticsHub_CollectionService 
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+IIS 10.0 Express
+Microsoft .NET Core 1.1.7 - Runtime (x64)
+Microsoft Visual Studio Installer
+Microsoft ASP.NET Core Module for IIS Express
+Microsoft .NET Core Runtime - 2.0.5 (x64)
+Microsoft .NET Core Host - 2.0.6 (x64)
+Microsoft SQL Server 2012 Command Line Utilities 
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005
+Microsoft .NET Core Host FX Resolver - 2.0.6 (x64)
+IIS Express Application Compatibility Database for x86
+Microsoft Visual C++ 2005 Redistributable (x64)
+Microsoft Azure Compute Emulator - v2.9.5.3
+Microsoft .NET Core 1.0.10 - Runtime (x64)
+Microsoft Azure Libraries for .NET – v2.9
+Redis on Windows
+icecap_collection_x64 
+Microsoft Visual C++ 2017 x64 Minimum Runtime - 14.12.25810
+Microsoft .NET Core 1.1.7 - Host (x64)
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+Microsoft .NET Core Runtime - 2.0.6 (x64)
+Microsoft .NET Core Host FX Resolver - 2.0.5 (x64)
+Microsoft .NET Core 1.0.10 - Host (x64)
+Microsoft SQL Server 2012 Native Client 
+Microsoft .NET Core SDK - 2.1.101 (x64)
+Microsoft System CLR Types for SQL Server 2017
+Node.js 
+VS JIT Debugger
+TortoiseSVN 1.9.7.27907 (64 bit)
+看图王 - 2345
+360压缩 
+360安全卫士 
+360手机助手 
+Adobe Creative Cloud
+Adobe Flash Player 28 PPAPI
+Visual Studio Professional 2017
+Cocos Creator
+DragonBonesPro 
+Google Chrome
+Adobe Illustrator CC 2018
+Oracle Developer Tools for Visual Studio 2017
+Microsoft Azure Storage Emulator - v5.4
+Adobe Photoshop CC 2018
+PL/SQL Developer 11.0.6.1776
+Tencent QQMail Plugin
+Redis Desktop Manager
+TIM 
+JetBrains WebStorm 2017.2.6
+微信 
+XMind 8 Update 7 (v3.7.7)
+vs_filehandler_amd64 
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+腾讯QQ 
+Microsoft Portable Library Multi-Targeting Pack Language Pack - chs
+icecap_collection_neutral 
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005
+vs_minshellmsi 
+Microsoft .NET Framework 4.7.2 Targeting Pack
+Microsoft .NET Framework 4.5.2 Multi-Targeting Pack
+vs_tipsmsi 
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+Microsoft TestPlatform SDK Local Feed
+Microsoft .NET Framework 4.6 Targeting Pack
+Microsoft .NET Framework 4.6.1 SDK
+vs_communitymsires 
+TypeScript SDK
+vcpp_crt.redist.clickonce 
+Microsoft ASP.NET Core 1.0 Local Feed - Visual Studio 2017
+Microsoft Visual C++ 2017 Redistributable (x86) - 14.12.25810
+Microsoft .NET Framework 4.5 Multi-Targeting Pack
+vs_SQLClickOnceBootstrappermsi 
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501
+.NET Core SDK 1.1.8 (x64)
+Google Update Helper
+Microsoft .NET Framework 4.5.1 Multi-Targeting Pack
+vs_clickoncesigntoolmsi 
+vs_minshellinteropmsi 
+Microsoft System CLR Types for SQL Server 2017
+Microsoft Visual C++ 2005 Redistributable
+Microsoft Visual C++ 2005 Redistributable
+Microsoft NetStandard SDK
+Cocos Creator
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.12.25810
+Microsoft Portable Library Multi-Targeting Pack
+vs_minshellmsires 
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.12.25810
+VS Immersive Activate Helper
+Mockplus 版本 3.2.10.2
+Microsoft .NET Framework 4.6.1 Targeting Pack
+vs_FileTracker_Singleton 
+vs_clickoncebootstrappermsires 
+Visual F# 10.1 SDK
+Microsoft .NET Framework 4.6.1 SDK (简体中文)
+icecap_collectionresources 
+Microsoft ASP.NET Diagnostic Pack for Visual Studio
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+Microsoft .NET Core SDK - 2.1.4 (x64)
+Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (简体中文)
+icecap_collectionresourcesx64 
+Microsoft ASP.NET Web Tools Packages 15.0 - ENU
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+Microsoft ASP.NET Core 1.1 Local Feed - Visual Studio 2017
+vs_clickoncebootstrappermsi 
+IntelliTraceProfilerProxy 
+TypeScript SDK
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+Microsoft Windows Communication Foundation Diagnostic Pack for x86
+Microsoft .NET Framework 4.7.2 Targeting Pack (ENU)
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+vs_devenvmsi 
+vs_professionalmsi 
+vs_communitymsi 
+vs_BlendMsi 
+Microsoft ASP.NET Web Tools Packages 15.0 - CHS
+Microsoft .NET Framework 4 Multi-Targeting Pack
+ClickOnce Bootstrapper Package for Microsoft .NET Framework
+Oracle Developer Tools for Visual Studio 2017
+Microsoft .NET Core SDK - 2.1.101 (x64)
+Visual F# 10.1 SDK
+Microsoft Visual Studio Setup Configuration
+Microsoft .NET Framework 4.7.2 Developer Pack
+Microsoft Visual C++ 2017 Redistributable (x64) - 14.12.25810
+vs_filehandler_x86 
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+Realtek High Definition Audio Driver
+Microsoft Azure Storage Emulator - v5.4
+Microsoft .NET Framework 4.7.2 SDK
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501
+Entity Framework 6.1.3 Tools  for Visual Studio 15
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005
+人行征信中心密码控件IE版 
+微信web开发者工具 1.02.1804241
+360安全浏览器
+WPS Office (10.1.0.7400)
+Postman-win64-6.2.3
+USB Information:
+    USB is Open,Please Tag It.
+Language Code:
+    Language:gbk
+Admin Users:
+      Administrator
+Power Users:
+
+FileShare Information:
+ C$           C:\                             默认共享                          
+ D$           D:\                             默认共享                          
+ E$           E:\                             默认共享                          
+ F$           F:\                             默认共享                          
+ IPC$                                         远程 IPC                          
+ ADMIN$       C:\windows                      远程管理                          

@@ -1,0 +1,70 @@
+<?php
+//引入数据库配置文件
+include './model/config.php';
+//引入数据库操作类
+include './model/Model.class.php';
+//引入操作数据的index.php文件
+include './model/index.php';
+
+$appid = $result['appid'];
+$appsecret = $result['appsecret'];
+//所在目录 根目录时留空
+$mulu = '';
+//非微信访问
+$notwxlink = 'http://www.baidu.com/?id=not';
+//落地域名（公众号安全域名）
+// $safe_link = $safe_links;
+//入口域名（公众号安全域名）
+$safe_link = array($safe_link);
+$share_link = array($_SERVER['HTTP_HOST']);
+
+//阅读量范围
+//好友分享次数
+$hycou =3;
+//朋友圈分享次数
+$pyqcou =1;
+//后退链接
+$back_link = array(
+		'http://cn.bing.com/'
+);
+//公众号名称对应链接
+$name_link = array(
+		'https://www.baidu.com/'
+);
+//阅读全文对应链接
+$read_link = array(
+		'http://www.qq.com/'
+);
+//底部广告对应链接
+$footer_link = array(
+		'http://www.ifeng.com'
+
+);
+//广告链接
+$adlink="http://www.sina.com.cn/";
+$adlink=str_replace("?","!*",$adlink);
+$adlink=str_replace("&","!@",$adlink);
+$adArr=array(
+		"title"=>"任性中医，专攻“男”言之隐，先体验，再决定！",
+		"des"=>"任性中医，专攻“男”言之隐，先体验，再决定！",
+		"img"=>"https://img.alicdn.com/imgextra/i1/1033688400/TB2cdonnnTI8KJjSsphXXcFppXa_!!1033688400.png",
+		"link"=>"http://{$share_link[0]}/page.php?url=".$adlink
+);
+$ggstr=json_encode($adArr,JSON_UNESCAPED_UNICODE);
+//好友分享
+$wxtitle = '地方混混老大暴打女朋友和她父亲，没想女朋友父亲尽然...';
+$webtitle='地方混混老大暴打女朋友和她父亲，没想女朋友父亲尽然...';
+$wxdesc = '已有27万人看过';
+$wximg = 'https://img.alicdn.com/imgextra/i1/1033688400/TB2cdonnnTI8KJjSsphXXcFppXa_!!1033688400.png';
+//朋友圈分享
+$pyqtitle = '地方混混老大暴打女朋友和她父亲，没想女朋友父亲尽然.. ';
+$pyqdesc = '已有27万人看过';
+$pyqimg = 'https://img.alicdn.com/imgextra/i1/1033688400/TB2cdonnnTI8KJjSsphXXcFppXa_!!1033688400.png';
+//腾讯视频VID
+//$vid = 'b142259geiu';
+$vid = 'o00264whzj1';
+//统计代码
+$tongji = <<<EOT
+<script src="" language="JavaScript"></script>
+EOT;
+?>

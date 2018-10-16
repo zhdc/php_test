@@ -1,0 +1,641 @@
+System Information: 
+      Computer Name = DESKTOP-BI467T1
+      OS       Type = Windows 10 家庭中文版 64-bit (10.0, Build 17134) (17134.rs4_release.180410-1804)
+      System  Model = TM1604
+      CPU     Model = Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz (4 CPUs), ~2.7GHz
+      RAM      Size = 8192MB RAM
+DisplayCard : 
+      Display  Card = Intel(R) HD Graphics 620
+      DisplayMemory = 4095 MB
+Mother Board:
+      Manufacturer     =Timi
+      MotherBoard Model=TM1604
+Hard Disk: 
+      Model=SAMSUNG MZVLW256HEHP-00000
+      Size=256052966400
+      
+      
+      
+Network Card:
+     NetCard Model = TAP-Windows Adapter V9
+     NetCard Model = Intel(R) Dual Band Wireless-AC 8265
+     NetCard Model = Bluetooth Device (Personal Area Network) #2
+     MAC Address = F4-96-34-E9-BC-EB
+     MAC Address = F6-96-34-E9-BC-EA
+     MAC Address = 00-FF-00-D2-05-90
+     MAC Address = F4-96-34-E9-BC-EA
+     MAC Address = F4-96-34-E9-BC-EE
+     IP Address =  192.168.0.117(首选) 
+
+Software Information:
+7-Zip 16.04
+Adobe AIR
+Adobe Flash Player 29 PPAPI
+企鹅游戏中心_1.3.544 
+Autodesk Content Service
+Axure RP Pro 7.0
+百度音乐 11.1.2.2
+Visual Studio Enterprise 2017 Preview
+Scratch 2 Offline Editor
+招行U-BANK 
+爱奇艺万能播放器 
+Google Chrome
+Microsoft Azure Storage Emulator - v5.3
+Microsoft Help Viewer 2.2
+Microsoft 帮助查看器 2.2 语言包 - 简体中文
+JetBrains PhpStorm 2017.3.2
+爱奇艺 
+PremiumSoft Navicat Premium 9.1
+JetBrains PyCharm Community Edition 2018.1.3
+腾讯视频 
+Tencent QQMail Plugin
+电脑管家12.11 
+Robo 3T 1.1.1
+搜狗五笔输入法 3.1正式版
+SolveigMM Video Splitter Business Edition
+财付通安全控件 2.0.2.8
+迅雷7 
+微信 
+WinPcap 4.1.2
+XAMPP 
+XMind 8 Update 5 (v3.7.5)
+Microsoft Visual Studio 2015 Update 3 IntelliTrace (x86)
+Visual C++ Library PGO X86 Package
+vs_filehandler_amd64 
+Microsoft Visual Studio 2015 Shell (Minimum)
+Axure RP Pro 7.0
+Microsoft LightSwitch v5.0 SDK
+Universal CRT Redistributable
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+腾讯QQ 
+Microsoft Portable Library Multi-Targeting Pack Language Pack - chs
+Microsoft Blend for Visual Studio 2015 - 简体中文
+Microsoft Visual Studio 2015 Devenv 资源
+Microsoft Office Developer Tools for Visual Studio
+WCF Data Services Tools for Microsoft Visual Studio 2015
+Blend for Visual Studio SDK for Silverlight 5
+Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - ENU
+Application Insights Tools for Visual Studio 2015
+Visual C++ IDE Core Professional Plus Resource Package
+Adobe AIR
+Microsoft Azure Mobile Services Connected Service
+MSBuild/NuGet Integration 14.0 (x86)
+Microsoft Visual Studio Professional 2015
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005
+Microsoft Visual Studio Enterprise 2015
+Microsoft Visual Studio 2015 Update 3 性能调试器 Web 视图 - 简体中文资源
+Microsoft ASP.NET MVC 4 - Visual Studio 2015 - CHS
+Microsoft VisualStudio JavaScript Project System
+Microsoft Visual Studio 2015 Shell (Minimum) Interop Assemblies
+Tools for .Net 3.5
+Python 2.7.15
+Visual F# 10.1 SDK
+Microsoft Visual Studio Enterprise 2015
+vs_tipsmsi 
+英特尔(R) 无线 Bluetooth(R)
+Visual C++ IDE Core Professional Plus Resource Package
+Visual C++ IDE Core Professional Plus Resource Package
+AzureTools.Notifications 
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148
+Universal CRT Extension SDK
+Microsoft Visual Studio 2015 XAML Application Timeline
+英特尔? PROSet/无线软件
+Visual C++ IDE Debugger Resource Package
+Microsoft Exchange Web Services Managed API 2.1
+Dotfuscator and Analytics Community Edition 语言包 5.22.0 zh-Hans
+使用 C# 的多设备混合应用 - 模板 - 简体中文
+Microsoft Visual Studio 2015 XAML Visual Diagnostics - ENU
+Universal CRT Extension SDK
+Entity Framework 6.1.3 Tools  for Visual Studio 2015 Update 1
+Microsoft Visual Studio 2015 Windows Diagnostic Tools - ENU
+Microsoft .NET Core SDK - 2.1.100 (x64)
+京东阅读 版本 1.2.4
+Microsoft NuGet - Visual Studio 2015
+Microsoft Visual Studio Enterprise 2015 - 简体中文
+Visual C++ IDE Core Professional Plus Resource Package
+Visual C++ IDE Base Package
+Microsoft.VisualStudio.Office365 
+Microsoft Report Viewer Add-On for Visual Studio 2015
+Visual C++ IDE Core Professional Plus Resource Package
+Visual C++ MSBuild Base Package
+Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - x86
+Windows Software Development Kit for Windows Store Apps
+Blend for Visual Studio SDK for .NET 4.5
+vs_communitymsires 
+Microsoft Office Developer Tools for Visual Studio ENU Language Pack
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.60610
+Open XML SDK 2.5 for Microsoft Office
+Roslyn 语言服务 - x86
+Microsoft Visual Studio 2015 Windows Diagnostic Tools
+TypeScript SDK
+Windows Espc Package
+Microsoft VisualStudio JavaScript Language Service
+Visual C++ IDE Core Professional Plus Resource Package
+PreEmptive Analytics Visual Studio Components
+Microsoft ASP.NET MVC 4 - Visual Studio 2015 - ENU
+vcpp_crt.redist.clickonce 
+Microsoft .NET Framework 4.6.1 Developer Pack
+TypeScript Power Tool
+Microsoft Help Viewer 2.2
+Microsoft LightSwitch for Visual Studio 2015 v5.0 Tools
+Visual C++ IDE Core Professional Plus Resource Package
+Microsoft Visual Studio 2015 Profiling Tools
+Microsoft LightSwitch for Visual Studio 2015 Core
+Zend Studio 13.0.1 (64-bit)
+Visual C++ IDE Core Professional Plus Resource Package
+Microsoft ASP.NET Web Pages 2 - Visual Studio 2015 - CHS
+Microsoft ASP.NET Web Frameworks and Tools - Visual Studio 2015 - CHS
+Microsoft Agents for Visual Studio 2015 - 简体中文
+Microsoft Build Tools Language Resources 14.0 (x86)
+Visual C++ IDE Core Professional Plus Resource Package
+Visual C++ MSBuild ARM Package
+Autodesk Material Library Base Resolution Image Library 2014
+Microsoft Visual Studio 2015 Update 3 诊断工具 - 简体中文
+Microsoft Azure Mobile Services Tools for Visual Studio - v1.4
+Microsoft Visual Studio 2015 SDK 语言包 - 简体中文
+Windows Software Development Kit for Windows Store Apps DirectX x86 Remote
+Visual F# 4.0 VS Language Pack - CHS
+vs_SQLClickOnceBootstrappermsi 
+Microsoft Visual C++ 2017 Redistributable (x86) - 14.13.26020
+Microsoft Visual Studio 2015 Update 3.1 Team Explorer Language Pack - ENU
+WCF RIA Services V1.0 SP2
+小米同步 
+Microsoft Visual Studio 2015 Update 3 IntelliTrace Front End
+Dotfuscator and Analytics Community Edition 5.22.0
+Microsoft ASP.NET and Web Tools 2015.1 (Beta8) - Visual Studio 2015
+Google Update Helper
+Microsoft Visual Studio 2015 XAML Application Timeline - ENU
+Autodesk Content Service
+Autodesk Content Service Language Pack
+Microsoft Azure Mobile Services Tools for Visual Studio 语言包 - 1.4 版
+SketchUp Import for AutoCAD 2014
+Autodesk Material Library 2014
+Microsoft ASP.NET Web Pages 2 - Visual Studio 2015 - ENU
+Microsoft Visual Studio Premium 2015
+Visual C++ IDE Core Professional Plus Resource Package
+Tableau 10.5 (10500.17.1226.1925)
+vs_networkemulationmsi_x64 
+Microsoft Visual Studio 2015 SDK - ENU
+Roslyn Language Services - x86
+vs_clickoncesigntoolmsi 
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.60610
+vs_minshellinteropmsi 
+Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - x86
+Microsoft Build Tools 14.0 (x86)
+Microsoft Visual Studio 2015 Update 3 IntelliTrace 前端 - 简体中文资源
+Visual F# 10.1 SDK
+Microsoft System CLR Types for SQL Server 2017
+vs_enterprisemsi 
+WCF Data Services Tools for Microsoft Visual Studio 2015 CHS Language Pack
+Composer - Php Dependency Manager
+Microsoft NetStandard SDK
+Scratch 2 Offline Editor
+Microsoft Visual C++ 2017 Redistributable (x64) - 14.13.26020
+Microsoft Visual Studio Connected Services
+Microsoft Visual Studio Services Hub
+Visual Studio 2015 Update 3 (KB3022398)
+Team Explorer for Microsoft Visual Studio 2015 Update 3.1
+Visual C++ Compiler/Tools X86 Base Package
+Microsoft Visual Studio Premium 2015 - 简体中文
+Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - x86
+Visual C++ IDE Common Resource Package
+Windows Runtime Intellisense Content - zh-cn
+Microsoft .NET Framework 4.6.1 Developer Pack (CHS)
+Microsoft Portable Library Multi-Targeting Pack
+vs_minshellmsires 
+Microsoft LightSwitch for Visual Studio 2015 v5.0 ToolsRes - CHS
+Visual C++ IDE Core Package
+Microsoft Visual Studio 2015 Update 3 IntelliTrace (x86) - 简体中文资源
+Microsoft Office Developer Tools for Visual Studio 2015 Nuget Package
+Visual C++ IDE Base Resource Package
+PreEmptive Analytics Client zh-Hans Language Pack
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.13.26020
+Update for Microsoft Visual Studio 2015 (KB3165756)
+Microsoft Silverlight
+Azure AD Authentication Connected Service
+FARO LS 1.1.501.0 (64bit)
+Mockplus 版本 3.2.8
+Universal CRT Headers Libraries and Sources
+Visual Studio Graphics Analyzer
+Visual C++ MSBuild X86 Package
+Microsoft Expression Blend SDK for .NET 4
+vs_FileTracker_Singleton 
+Microsoft Azure Storage Connected Service
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.13.26020
+vs_clickoncebootstrappermsires 
+Microsoft Visual Studio 2015 XAML 设计器 - 简体中文
+icecap_collectionresources 
+Visual C++ Compiler/Tools X86 Base Resource Package
+Microsoft Visual Studio 2015 Shell (最小)资源
+Microsoft .NET Framework 4.5.1 RC Multi-Targeting Pack for Windows Store Apps
+Windows Software Development Kit
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+Test Tools for Microsoft Visual Studio 2015
+用于 Windows 应用商店应用的 Microsoft .NET Framework 4.5.1 RC 多目标包(简体中文)
+Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (简体中文)
+Microsoft Azure Mobile Services SDK V2.0
+icecap_collectionresourcesx64 
+Windows Software Development Kit DirectX x86 Remote
+Microsoft ASP.NET Diagnostic Pack for Visual Studio
+Visual Studio 2012 Verification SDK
+Microsoft ASP.NET Web Tools Packages 15.0 - ENU
+Microsoft Visual Studio 2015 Update 3 Performance Debugger Web Views
+Microsoft ASP.NET and Web Tools 2015.1 (Beta8) - Visual Studio 2015 - chs
+vs_clickoncebootstrappermsi 
+Microsoft Report Viewer Add-On for Visual Studio 2015
+Microsoft Visual Studio 的 Office 开发工具简体中文语言包
+vs_update3notification 
+Universal CRT Headers Libraries and Sources
+IntelliTraceProfilerProxy 
+Visual C++ Compiler/Tools X86 Base Resource Package
+Universal CRT Tools x86
+Visual C++ IDE Core Professional Plus Resource Package
+Microsoft LightSwitch for Visual Studio 2015 CoreRes - ENU
+VS Update core components
+vs_codecoveragemsi 
+Microsoft Windows Communication Foundation Diagnostic Pack for x86
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610
+Microsoft 帮助查看器 2.2 语言包 - CHS
+TypeScript Tools for Microsoft Visual Studio 2015
+Microsoft Visual Studio 2015 准备
+英特尔? 芯片组设备软件
+Visual C++ IDE Common Package
+Embarcadero ER/Studio v8.0
+Visual C++ Compiler/Tools X86 Base Package
+vs_devenvmsi 
+Visual C++ IDE Base Resource Package
+Autodesk App Manager
+vs_professionalmsi 
+vs_minshellmsi 
+vs_communitymsi 
+Microsoft Visual Studio 2015 准备
+Visual C++ IDE Professional Core Package
+Microsoft ASP.NET Web Tools Packages 15.0 - CHS
+icecap_collection_neutral 
+Microsoft Visual C++ 2015 x86 Debug Runtime - 14.0.24215
+Microsoft ASP.NET Web Frameworks and Tools - Visual Studio 2015 - ENU
+Microsoft Visual Studio 2015 测试工具语言包 - 简体中文
+适用于 SQL Server 的 Active Directory Authentication Library (x86)
+Microsoft Agents for Visual Studio 2015 Preview
+Microsoft Azure Shared Components for Visual Studio 2015 语言包(简体中文) - v1.8
+Microsoft .NET Framework 4 Multi-Targeting Pack
+Visual C++ IDE Core Professional Plus Resource Package
+ClickOnce Bootstrapper Package for Microsoft .NET Framework
+Visual C++ IDE Core Professional Plus Resource Package
+Microsoft Visual Studio 2015 Update 3 诊断工具 - 简体中文
+Visual C++ MSBuild Base Resource Package
+SSDT 必备组件
+Microsoft Blend for Visual Studio 2015
+Microsoft Visual Studio 2015 XAML Designer
+Visual C++ IDE Core Professional Plus Resource Package
+WCF Data Services 5.6.4 Runtime
+Microsoft Visual Studio Community 2015 - 简体中文
+Microsoft Visual Studio Setup Configuration
+Microsoft Visual Studio Community 2015
+Microsoft Azure Storage Emulator - v5.3
+Microsoft .NET Core 5.0 SDK
+Visual F# 4.0 SDK Language Pack - CHS
+vs_filehandler_x86 
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.60610
+Visual C++ MSBuild X64 Package
+Microsoft Azure Shared Components for Visual Studio 2015 - v1.8
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+Intel(R) Processor Graphics
+Realtek High Definition Audio Driver
+Tools for .Net 3.5 - CHS Lang Pack
+Windows App Certification Kit x64
+Visual C++ IDE Debugger Package
+Microsoft Visual Studio 2015 准备
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501
+Autodesk Featured Apps
+Microsoft Silverlight 5 SDK - CHS
+Entity Framework 6.1.3 Tools  for Visual Studio 15
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005
+Microsoft Visual Studio 2015 Devenv
+Windows Espc Resource Package
+SSDT 必备组件
+Microsoft Visual Studio Professional 2015 - 简体中文
+Microsoft Visual Studio 2015 XAML Visual Diagnostics
+WCF Data Services 5.6.4 CHS Language Pack
+亿图图示 9.0
+影音嗅探专家 
+百度网盘 
+百度浏览器 
+迅雷影音 
+钉钉 
+7-Zip 16.04
+Adobe AIR
+Adobe Flash Player 29 PPAPI
+企鹅游戏中心_1.3.544 
+Autodesk Content Service
+Axure RP Pro 7.0
+百度音乐 11.1.2.2
+Visual Studio Enterprise 2017 Preview
+Scratch 2 Offline Editor
+招行U-BANK 
+爱奇艺万能播放器 
+Google Chrome
+Microsoft Azure Storage Emulator - v5.3
+Microsoft Help Viewer 2.2
+Microsoft 帮助查看器 2.2 语言包 - 简体中文
+JetBrains PhpStorm 2017.3.2
+爱奇艺 
+PremiumSoft Navicat Premium 9.1
+JetBrains PyCharm Community Edition 2018.1.3
+腾讯视频 
+Tencent QQMail Plugin
+电脑管家12.11 
+Robo 3T 1.1.1
+搜狗五笔输入法 3.1正式版
+SolveigMM Video Splitter Business Edition
+财付通安全控件 2.0.2.8
+迅雷7 
+微信 
+WinPcap 4.1.2
+XAMPP 
+XMind 8 Update 5 (v3.7.5)
+Microsoft Visual Studio 2015 Update 3 IntelliTrace (x86)
+Visual C++ Library PGO X86 Package
+vs_filehandler_amd64 
+Microsoft Visual Studio 2015 Shell (Minimum)
+Axure RP Pro 7.0
+Microsoft LightSwitch v5.0 SDK
+Universal CRT Redistributable
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+腾讯QQ 
+Microsoft Portable Library Multi-Targeting Pack Language Pack - chs
+Microsoft Blend for Visual Studio 2015 - 简体中文
+Microsoft Visual Studio 2015 Devenv 资源
+Microsoft Office Developer Tools for Visual Studio
+WCF Data Services Tools for Microsoft Visual Studio 2015
+Blend for Visual Studio SDK for Silverlight 5
+Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - ENU
+Application Insights Tools for Visual Studio 2015
+Visual C++ IDE Core Professional Plus Resource Package
+Adobe AIR
+Microsoft Azure Mobile Services Connected Service
+MSBuild/NuGet Integration 14.0 (x86)
+Microsoft Visual Studio Professional 2015
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005
+Microsoft Visual Studio Enterprise 2015
+Microsoft Visual Studio 2015 Update 3 性能调试器 Web 视图 - 简体中文资源
+Microsoft ASP.NET MVC 4 - Visual Studio 2015 - CHS
+Microsoft VisualStudio JavaScript Project System
+Microsoft Visual Studio 2015 Shell (Minimum) Interop Assemblies
+Tools for .Net 3.5
+Python 2.7.15
+Visual F# 10.1 SDK
+Microsoft Visual Studio Enterprise 2015
+vs_tipsmsi 
+英特尔(R) 无线 Bluetooth(R)
+Visual C++ IDE Core Professional Plus Resource Package
+Visual C++ IDE Core Professional Plus Resource Package
+AzureTools.Notifications 
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148
+Universal CRT Extension SDK
+Microsoft Visual Studio 2015 XAML Application Timeline
+英特尔? PROSet/无线软件
+Visual C++ IDE Debugger Resource Package
+Microsoft Exchange Web Services Managed API 2.1
+Dotfuscator and Analytics Community Edition 语言包 5.22.0 zh-Hans
+使用 C# 的多设备混合应用 - 模板 - 简体中文
+Microsoft Visual Studio 2015 XAML Visual Diagnostics - ENU
+Universal CRT Extension SDK
+Entity Framework 6.1.3 Tools  for Visual Studio 2015 Update 1
+Microsoft Visual Studio 2015 Windows Diagnostic Tools - ENU
+Microsoft .NET Core SDK - 2.1.100 (x64)
+京东阅读 版本 1.2.4
+Microsoft NuGet - Visual Studio 2015
+Microsoft Visual Studio Enterprise 2015 - 简体中文
+Visual C++ IDE Core Professional Plus Resource Package
+Visual C++ IDE Base Package
+Microsoft.VisualStudio.Office365 
+Microsoft Report Viewer Add-On for Visual Studio 2015
+Visual C++ IDE Core Professional Plus Resource Package
+Visual C++ MSBuild Base Package
+Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - x86
+Windows Software Development Kit for Windows Store Apps
+Blend for Visual Studio SDK for .NET 4.5
+vs_communitymsires 
+Microsoft Office Developer Tools for Visual Studio ENU Language Pack
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.60610
+Open XML SDK 2.5 for Microsoft Office
+Roslyn 语言服务 - x86
+Microsoft Visual Studio 2015 Windows Diagnostic Tools
+TypeScript SDK
+Windows Espc Package
+Microsoft VisualStudio JavaScript Language Service
+Visual C++ IDE Core Professional Plus Resource Package
+PreEmptive Analytics Visual Studio Components
+Microsoft ASP.NET MVC 4 - Visual Studio 2015 - ENU
+vcpp_crt.redist.clickonce 
+Microsoft .NET Framework 4.6.1 Developer Pack
+TypeScript Power Tool
+Microsoft Help Viewer 2.2
+Microsoft LightSwitch for Visual Studio 2015 v5.0 Tools
+Visual C++ IDE Core Professional Plus Resource Package
+Microsoft Visual Studio 2015 Profiling Tools
+Microsoft LightSwitch for Visual Studio 2015 Core
+Zend Studio 13.0.1 (64-bit)
+Visual C++ IDE Core Professional Plus Resource Package
+Microsoft ASP.NET Web Pages 2 - Visual Studio 2015 - CHS
+Microsoft ASP.NET Web Frameworks and Tools - Visual Studio 2015 - CHS
+Microsoft Agents for Visual Studio 2015 - 简体中文
+Microsoft Build Tools Language Resources 14.0 (x86)
+Visual C++ IDE Core Professional Plus Resource Package
+Visual C++ MSBuild ARM Package
+Autodesk Material Library Base Resolution Image Library 2014
+Microsoft Visual Studio 2015 Update 3 诊断工具 - 简体中文
+Microsoft Azure Mobile Services Tools for Visual Studio - v1.4
+Microsoft Visual Studio 2015 SDK 语言包 - 简体中文
+Windows Software Development Kit for Windows Store Apps DirectX x86 Remote
+Visual F# 4.0 VS Language Pack - CHS
+vs_SQLClickOnceBootstrappermsi 
+Microsoft Visual C++ 2017 Redistributable (x86) - 14.13.26020
+Microsoft Visual Studio 2015 Update 3.1 Team Explorer Language Pack - ENU
+WCF RIA Services V1.0 SP2
+小米同步 
+Microsoft Visual Studio 2015 Update 3 IntelliTrace Front End
+Dotfuscator and Analytics Community Edition 5.22.0
+Microsoft ASP.NET and Web Tools 2015.1 (Beta8) - Visual Studio 2015
+Google Update Helper
+Microsoft Visual Studio 2015 XAML Application Timeline - ENU
+Autodesk Content Service
+Autodesk Content Service Language Pack
+Microsoft Azure Mobile Services Tools for Visual Studio 语言包 - 1.4 版
+SketchUp Import for AutoCAD 2014
+Autodesk Material Library 2014
+Microsoft ASP.NET Web Pages 2 - Visual Studio 2015 - ENU
+Microsoft Visual Studio Premium 2015
+Visual C++ IDE Core Professional Plus Resource Package
+Tableau 10.5 (10500.17.1226.1925)
+vs_networkemulationmsi_x64 
+Microsoft Visual Studio 2015 SDK - ENU
+Roslyn Language Services - x86
+vs_clickoncesigntoolmsi 
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.60610
+vs_minshellinteropmsi 
+Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - x86
+Microsoft Build Tools 14.0 (x86)
+Microsoft Visual Studio 2015 Update 3 IntelliTrace 前端 - 简体中文资源
+Visual F# 10.1 SDK
+Microsoft System CLR Types for SQL Server 2017
+vs_enterprisemsi 
+WCF Data Services Tools for Microsoft Visual Studio 2015 CHS Language Pack
+Composer - Php Dependency Manager
+Microsoft NetStandard SDK
+Scratch 2 Offline Editor
+Microsoft Visual C++ 2017 Redistributable (x64) - 14.13.26020
+Microsoft Visual Studio Connected Services
+Microsoft Visual Studio Services Hub
+Visual Studio 2015 Update 3 (KB3022398)
+Team Explorer for Microsoft Visual Studio 2015 Update 3.1
+Visual C++ Compiler/Tools X86 Base Package
+Microsoft Visual Studio Premium 2015 - 简体中文
+Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - x86
+Visual C++ IDE Common Resource Package
+Windows Runtime Intellisense Content - zh-cn
+Microsoft .NET Framework 4.6.1 Developer Pack (CHS)
+Microsoft Portable Library Multi-Targeting Pack
+vs_minshellmsires 
+Microsoft LightSwitch for Visual Studio 2015 v5.0 ToolsRes - CHS
+Visual C++ IDE Core Package
+Microsoft Visual Studio 2015 Update 3 IntelliTrace (x86) - 简体中文资源
+Microsoft Office Developer Tools for Visual Studio 2015 Nuget Package
+Visual C++ IDE Base Resource Package
+PreEmptive Analytics Client zh-Hans Language Pack
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.13.26020
+Update for Microsoft Visual Studio 2015 (KB3165756)
+Microsoft Silverlight
+Azure AD Authentication Connected Service
+FARO LS 1.1.501.0 (64bit)
+Mockplus 版本 3.2.8
+Universal CRT Headers Libraries and Sources
+Visual Studio Graphics Analyzer
+Visual C++ MSBuild X86 Package
+Microsoft Expression Blend SDK for .NET 4
+vs_FileTracker_Singleton 
+Microsoft Azure Storage Connected Service
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.13.26020
+vs_clickoncebootstrappermsires 
+Microsoft Visual Studio 2015 XAML 设计器 - 简体中文
+icecap_collectionresources 
+Visual C++ Compiler/Tools X86 Base Resource Package
+Microsoft Visual Studio 2015 Shell (最小)资源
+Microsoft .NET Framework 4.5.1 RC Multi-Targeting Pack for Windows Store Apps
+Windows Software Development Kit
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+Test Tools for Microsoft Visual Studio 2015
+用于 Windows 应用商店应用的 Microsoft .NET Framework 4.5.1 RC 多目标包(简体中文)
+Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (简体中文)
+Microsoft Azure Mobile Services SDK V2.0
+icecap_collectionresourcesx64 
+Windows Software Development Kit DirectX x86 Remote
+Microsoft ASP.NET Diagnostic Pack for Visual Studio
+Visual Studio 2012 Verification SDK
+Microsoft ASP.NET Web Tools Packages 15.0 - ENU
+Microsoft Visual Studio 2015 Update 3 Performance Debugger Web Views
+Microsoft ASP.NET and Web Tools 2015.1 (Beta8) - Visual Studio 2015 - chs
+vs_clickoncebootstrappermsi 
+Microsoft Report Viewer Add-On for Visual Studio 2015
+Microsoft Visual Studio 的 Office 开发工具简体中文语言包
+vs_update3notification 
+Universal CRT Headers Libraries and Sources
+IntelliTraceProfilerProxy 
+Visual C++ Compiler/Tools X86 Base Resource Package
+Universal CRT Tools x86
+Visual C++ IDE Core Professional Plus Resource Package
+Microsoft LightSwitch for Visual Studio 2015 CoreRes - ENU
+VS Update core components
+vs_codecoveragemsi 
+Microsoft Windows Communication Foundation Diagnostic Pack for x86
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610
+Microsoft 帮助查看器 2.2 语言包 - CHS
+TypeScript Tools for Microsoft Visual Studio 2015
+Microsoft Visual Studio 2015 准备
+英特尔? 芯片组设备软件
+Visual C++ IDE Common Package
+Embarcadero ER/Studio v8.0
+Visual C++ Compiler/Tools X86 Base Package
+vs_devenvmsi 
+Visual C++ IDE Base Resource Package
+Autodesk App Manager
+vs_professionalmsi 
+vs_minshellmsi 
+vs_communitymsi 
+Microsoft Visual Studio 2015 准备
+Visual C++ IDE Professional Core Package
+Microsoft ASP.NET Web Tools Packages 15.0 - CHS
+icecap_collection_neutral 
+Microsoft Visual C++ 2015 x86 Debug Runtime - 14.0.24215
+Microsoft ASP.NET Web Frameworks and Tools - Visual Studio 2015 - ENU
+Microsoft Visual Studio 2015 测试工具语言包 - 简体中文
+适用于 SQL Server 的 Active Directory Authentication Library (x86)
+Microsoft Agents for Visual Studio 2015 Preview
+Microsoft Azure Shared Components for Visual Studio 2015 语言包(简体中文) - v1.8
+Microsoft .NET Framework 4 Multi-Targeting Pack
+Visual C++ IDE Core Professional Plus Resource Package
+ClickOnce Bootstrapper Package for Microsoft .NET Framework
+Visual C++ IDE Core Professional Plus Resource Package
+Microsoft Visual Studio 2015 Update 3 诊断工具 - 简体中文
+Visual C++ MSBuild Base Resource Package
+SSDT 必备组件
+Microsoft Blend for Visual Studio 2015
+Microsoft Visual Studio 2015 XAML Designer
+Visual C++ IDE Core Professional Plus Resource Package
+WCF Data Services 5.6.4 Runtime
+Microsoft Visual Studio Community 2015 - 简体中文
+Microsoft Visual Studio Setup Configuration
+Microsoft Visual Studio Community 2015
+Microsoft Azure Storage Emulator - v5.3
+Microsoft .NET Core 5.0 SDK
+Visual F# 4.0 SDK Language Pack - CHS
+vs_filehandler_x86 
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.60610
+Visual C++ MSBuild X64 Package
+Microsoft Azure Shared Components for Visual Studio 2015 - v1.8
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+Intel(R) Processor Graphics
+Realtek High Definition Audio Driver
+Tools for .Net 3.5 - CHS Lang Pack
+Windows App Certification Kit x64
+Visual C++ IDE Debugger Package
+Microsoft Visual Studio 2015 准备
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501
+Autodesk Featured Apps
+Microsoft Silverlight 5 SDK - CHS
+Entity Framework 6.1.3 Tools  for Visual Studio 15
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005
+Microsoft Visual Studio 2015 Devenv
+Windows Espc Resource Package
+SSDT 必备组件
+Microsoft Visual Studio Professional 2015 - 简体中文
+Microsoft Visual Studio 2015 XAML Visual Diagnostics
+WCF Data Services 5.6.4 CHS Language Pack
+亿图图示 9.0
+影音嗅探专家 
+百度网盘 
+百度浏览器 
+迅雷影音 
+钉钉 
+WPS Office (10.1.0.7400)
+Microsoft OneDrive
+USB Information:
+    USB is Open,Please Tag It.
+Language Code:
+    Language:gbk
+Admin Users:
+      Administrator
+      wings
+Power Users:
+
+FileShare Information:
+ C$           C:\                             默认共享                          
+ D$           D:\                             默认共享                          
+ E$           E:\                             默认共享                          
+ G$           G:\                             默认共享                          
+ H$           H:\                             默认共享                          
+ IPC$                                         远程 IPC                          
+ print$       C:\Windows\system32\spool\drivers
+ 打印机驱动程序                    
+ ADMIN$       C:\WINDOWS                      远程管理                          

@@ -1,0 +1,181 @@
+System Information: 
+      Computer Name = PV-X00172840
+      OS       Type = Windows 10 专业版 64-bit (10.0, Build 17134) (17134.rs4_release.180410-1804)
+      System  Model = Battle Axe C.B360M-HD
+      CPU     Model = Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz (6 CPUs), ~2.8GHz
+      RAM      Size = 16384MB RAM
+DisplayCard : 
+      Display  Card = NVIDIA GeForce GTX 1050 Ti
+      DisplayMemory = 12172 MB
+Mother Board:
+      Manufacturer     =Colorful Technology And Development Co.,LTD
+      MotherBoard Model=Battle Axe C.B360M-HD
+Hard Disk: 
+      Model=WDC WD10EZEX-08WN4A0
+      Size=1000202273280
+      
+      
+      
+Network Card:
+     NetCard Model = Realtek PCIe GBE Family Controller
+     MAC Address = 00-CF-E0-47-D5-92
+     IP Address =  192.168.0.116(首选) 
+
+Software Information:
+Corel Graphics - Windows Shell Extension
+CorelDRAW Graphics Suite 2018 (64-Bit)
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664
+Microsoft Visual C++ 2005 Redistributable (x64)
+CorelDRAW Graphics Suite 2018 - Custom Data (x64)
+Microsoft Visual Studio Tools for Applications 2017 x64 Hosting Support
+CorelDRAW Graphics Suite 2018 - Draw (x64)
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+CorelDRAW Graphics Suite 2018
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61135
+UpdateAssistant 
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664
+CorelDRAW Graphics Suite 2018 - Capture (x64)
+Corel Graphics - Windows Shell Extension
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.7523
+CorelDRAW Graphics Suite 2018 - CS (x64)
+Corel Update Manager
+TortoiseSVN 1.10.1.28295 (64 bit)
+CorelDRAW Graphics Suite 2018 - VBA (x64)
+Microsoft Visual Basic for Applications 7.1 (x64)
+Microsoft Visual C++ 2017 x64 Minimum Runtime - 14.14.26329
+Microsoft Visual Basic for Applications 7.1 (x64) English
+Microsoft Visual Basic for Applications 7.1 (x64) Chinese (Simplified)
+CorelDRAW Graphics Suite 2018 - Filters (x64)
+CorelDRAW Graphics Suite 2018 - Workspaces (x64)
+Corel Graphics - Windows Shell Extension 32 Bit Keys
+Microsoft Visual C++ 2017 x64 Additional Runtime - 14.14.26329
+CorelDRAW Graphics Suite 2018 - IPM T (x64)
+Update for Windows 10 for x64-based Systems (KB4023057)
+Microsoft Visual C++ 2005 Redistributable (x64)
+NVIDIA Ansel
+NVIDIA 3D Vision 驱动程序 398.11
+NVIDIA 控制面板 398.11
+NVIDIA 图形驱动程序 398.11
+NVIDIA GeForce Experience 3.14.0.139
+NVIDIA 3D Vision 控制器驱动程序 390.41
+NVIDIA Optimus Update 31.2.0.0
+NVIDIA PhysX 系统软件 9.17.0524
+NVIDIA 更新 31.2.0.0
+DisplayDriverAnalyzer 
+NVIDIA SHIELD Streaming
+NVIDIA HD 音频驱动程序 1.3.37.4
+NVIDIA Install Application
+NVIDIA Backend
+NVIDIA Container
+NVIDIA TelemetryApi helper for NvContainer
+NVIDIA LocalSystem Container
+NVIDIA Message Bus for NvContainer
+NVIDIA NetworkService Container
+NVIDIA Session Container
+NVIDIA User Container
+NVIDIA Display Container
+NVIDIA Display Container LS
+NVIDIA Display Watchdog Plugin
+NVIDIA Display Session Container
+NVIDIA NodeJS
+NVIDIA Watchdog Plugin for NvContainer
+NVIDIA Telemetry Client
+NVIDIA Telemetry Container
+NVIDIA Virtual Host Controller
+Nvidia Share
+NVIDIA ShadowPlay 3.14.0.139
+NVIDIA SHIELD Wireless Controller Driver
+NVIDIA Update Core
+NVIDIA Virtual Audio 4.06.0
+CorelDRAW Graphics Suite 2018 - Connect (x64)
+CorelDRAW Graphics Suite 2018 - Common (x64)
+CorelDRAW Graphics Suite 2018 - PHOTO-PAINT (x64)
+CorelDRAW Graphics Suite 2018 - Setup Files (x64)
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61135
+CorelDRAW Graphics Suite 2018 - Redist (x64)
+CorelDRAW Graphics Suite 2018 - Font Manager (x64)
+CorelDRAW Graphics Suite 2018 - Writing Tools (x64)
+CINEMA 4D R14R14
+看图王 - 2345
+360压缩 
+Adobe AIR
+Adobe Creative Cloud
+Adobe After Effects CC 2018
+Adobe Media Encoder CC 2018
+企鹅游戏中心_1.3.544 
+Axure RP 8
+PxCook 
+腾讯桌面整理 
+Adobe Illustrator CC 2018
+小鲁温度监控 
+MarkMan - 让设计更有爱！
+NVIDIA Stereoscopic 3D Driver
+Adobe Photoshop CC 2018
+爱奇艺 
+QQ浏览器 
+Tencent QQMail Plugin
+QQ音乐 
+电脑管家12.14 
+搜狗输入法 9.1正式版
+迅雷 
+TIM 
+微信 
+XMind 8 Update 7 (v3.7.7)
+Ghostscript GPL 8.64 (Msi Setup)
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+腾讯QQ 
+Ghostscript GPL 8.64 (Msi Setup)
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.14.26329
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664
+Microsoft Visual C++ 2017 Redistributable (x64) - 14.14.26329
+MarkMan - 让设计更有爱！
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.14.26329
+Microsoft Visual Studio Tools for Applications 2017
+Microsoft Visual C++ 2005 Redistributable
+Microsoft Visual C++ 2005 Redistributable
+Microsoft Visual C++ 2017 Redistributable (x86) - 14.14.26329
+虾米音乐版本3.1.2 
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664
+Microsoft Visual C++ 2005 Redistributable
+Axure RP 8
+CorelDRAW Graphics Suite 2018 - IPM Content CS
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.7523
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+Microsoft Visual Studio Tools for Applications 2017 x86 Hosting Support
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61135
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61135
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Adobe AIR
+PxCook 
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664
+微软 Windows 10 易升
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+Realtek High Definition Audio Driver
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501
+Intel(R) C++ Redistributables on Intel(R) 64
+Realtek Ethernet Controller All-In-One Windows Driver
+万能压缩 1.0
+百度网盘 
+网易云音乐 
+WPS Office (10.1.0.7520)
+MockingBot
+搜狗高速浏览器 8.5.6.28690
+USB Information:
+    USB is Open,Please Tag It.
+Language Code:
+    Language:gbk
+Admin Users:
+      Administrator
+Power Users:
+
+FileShare Information:
+ C$           C:\                             默认共享                          
+ D$           D:\                             默认共享                          
+ E$           E:\                             默认共享                          
+ F$           F:\                             默认共享                          
+ IPC$                                         远程 IPC                          
+ ADMIN$       C:\WINDOWS                      远程管理                          

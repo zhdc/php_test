@@ -1,0 +1,499 @@
+System Information: 
+      Computer Name = DESKTOP-V6DTC85
+      OS       Type = Windows 10 教育版 64-bit (10.0, Build 17134) (17134.rs4_release.180410-1804)
+      System  Model = X441UVK
+      CPU     Model = Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz (4 CPUs), ~2.7GHz
+      RAM      Size = 8192MB RAM
+DisplayCard : 
+      Display  Card = Intel(R) HD Graphics 620
+      DisplayMemory = 4164 MB
+Mother Board:
+      Manufacturer     =ASUSTeK COMPUTER INC.
+      MotherBoard Model=X441UVK
+Hard Disk: 
+      Model=HFS256G32TND-N210A
+      Size=256052966400
+      
+      
+      
+Network Card:
+     NetCard Model = Realtek PCIe FE Family Controller
+     NetCard Model = TAP-Windows Adapter V9
+     NetCard Model = VMware Virtual Ethernet Adapter for VMnet1
+     NetCard Model = VMware Virtual Ethernet Adapter for VMnet8
+     NetCard Model = Realtek RTL8723AE 无线 LAN 802.11n PCI-E NIC
+     MAC Address = FA-28-19-26-E1-68
+     MAC Address = F8-28-19-26-E1-68
+     MAC Address = 10-7B-44-DC-C7-E6
+     MAC Address = 00-FF-B0-72-44-0F
+     MAC Address = 00-50-56-C0-00-01
+     MAC Address = 00-50-56-C0-00-08
+     MAC Address = F8-28-19-26-E1-68
+     IP Address =  192.168.0.157(首选) 
+     IP Address =  10.8.0.6(首选) 
+     IP Address =  192.168.181.1(首选) 
+     IP Address =  192.168.127.1(首选) 
+
+Software Information:
+ImageMagick 7.0.7-21 Q16 (64-bit) (2018-01-06)
+Microsoft Azure Compute Emulator - v2.9.5.3
+Notepad++ (64-bit x64)
+Microsoft Office Professional Plus 2013
+Microsoft Visio 专业版 2016
+PremiumSoft Navicat Premium 11.2
+VLC media player
+Microsoft .NET Core Host - 2.1.1 (x64)
+用于 SQL Server 的 Active Directory Authentication Library
+Microsoft .NET Core SDK - 2.1.4 (x64)
+Microsoft SQL Server 2016 LocalDB
+Microsoft Visual Studio Team Foundation Server 2017 RC Office Integration (x64)
+Microsoft .NET Core 1.0.9 - Runtime (x64)
+Microsoft Azure Authoring Tools - v2.9.5.3
+Microsoft .NET Core Host - 2.0.9 (x64)
+Microsoft .NET Core SDK - 2.1.202 (x64)
+Microsoft .NET Core SDK 2.1.401 (x64)
+Microsoft .NET Core SDK 2.1.301 (x64)
+VS WCF Debugging
+Microsoft .NET Core Host - 2.1.3 Release Candidate 1 (x64)
+Microsoft .NET Core SDK 2.1.300 (x64)
+Microsoft ASP.NET Core 2.1.0 Shared Framework (x64)
+Microsoft .NET Core SDK - 2.1.103 (x64)
+Microsoft .NET Core Host - 2.0.3 (x64)
+Microsoft .NET Core 1.0.4 - Runtime (x64)
+Microsoft .NET Core Host FX Resolver - 2.0.7 (x64)
+Microsoft .NET Core Host - 2.0.5 (x64)
+Microsoft .NET Core 1.1.6 - Host FX Resolver (x64)
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+Microsoft .NET Core SDK - 2.1.2 (x64)
+Microsoft .NET Core Host - 2.0.7 (x64)
+Microsoft .NET Core SDK - 2.1.100 (x64)
+VS JIT Debugger
+IIS 10.0 Express
+Microsoft .NET Core 1.1.6 - Host (x64)
+Microsoft .NET Core Runtime - 2.0.7 (x64)
+Microsoft .NET Core Host FX Resolver - 2.0.9 (x64)
+Microsoft .NET Core 1.1.1 - Runtime (x64)
+IntelliTraceProfilerProxy 
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+Microsoft Visual Studio Installer
+Microsoft .NET Core Host FX Resolver - 2.1.0 (x64)
+Microsoft Visual Studio Team Foundation Server 2017 RC Office Integration Language Pack (x64) - ENU
+Microsoft .NET Core Runtime - 2.0.5 (x64)
+Microsoft .NET Core 1.1.6 - Runtime (x64)
+Microsoft .NET Core Host FX Resolver - 2.0.3 (x64)
+Microsoft ASP.NET Core 2.0.9 Runtime Package Store (x64)
+VS Script Debugging Common
+Microsoft .NET Core Host - 2.0.6 (x64)
+Microsoft .NET Core SDK - 2.1.201 (x64)
+Microsoft Office Professional Plus 2013
+Security Update for Microsoft Office 2013 (KB3039798) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3114499) 64-Bit Edition
+Update for Microsoft Outlook Social Connector 2013 (KB3054854) 64-Bit Edition
+Update for Microsoft Office 2013 (KB4022233) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3085565) 64-Bit Edition
+Security Update for Microsoft Office 2013 (KB4011103) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3114488) 64-Bit Edition
+Update for Microsoft Office 2013 (KB2760371) 64-Bit Edition
+Update for Microsoft OneDrive for Business (KB4022226) 64-Bit Edition
+Security Update for Microsoft Access 2013 (KB4018351) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3101503) 64-Bit Edition
+Security Update for Microsoft Outlook 2013 (KB4032240) 64-Bit Edition
+Security Update for Microsoft Office 2013 (KB2910941) 64-Bit Edition
+Update for Microsoft Publisher 2013 (KB3114329) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3172506) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3039756) 64-Bit Edition
+Update for Microsoft Office 2013 (KB4022212) 64-Bit Edition
+Definition Update for Microsoft Office 2013 (KB3115404) 64-Bit Edition
+Update for Microsoft Office 2013 (KB4011155) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3039778) 64-Bit Edition
+Security Update for Microsoft Excel 2013 (KB4032241) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3054856) 64-Bit Edition
+Security Update for Microsoft Office 2013 (KB3115153) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3172471) 64-Bit Edition
+Update for Microsoft OneNote 2013 (KB4011281) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3127916) 64-Bit Edition
+Update for Microsoft Office 2013 (KB4018333) 64-Bit Edition
+Update for Microsoft Office 2013 (KB4018378) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3023049) 64-Bit Edition
+Update for Microsoft Office 2013 (KB2889863) 64-Bit Edition
+Security Update for Microsoft Word 2013 (KB4011590) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3039766) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3039701) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3039795) 64-Bit Edition
+Update for Microsoft Visio Viewer 2013 (KB2817301) 64-Bit Edition
+Security Update for Microsoft Office 2013 (KB4022188) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3023052) 64-Bit Edition
+Update for Microsoft PowerPoint 2013 (KB4018374) 64-Bit Edition
+Update for Microsoft Office 2013 (KB2899522) 64-Bit Edition
+Security Update for Microsoft Office 2013 (KB4022182) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3085587) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition
+Update for Microsoft InfoPath 2013 (KB3114946) 64-Bit Edition
+Security Update for Microsoft Office 2013 (KB4022189) 64-Bit Edition
+Update for Microsoft Office 2013 (KB2883095) 64-Bit Edition
+Update for Microsoft Office 2013 (KB2760344) 64-Bit Edition
+Security Update for Microsoft InfoPath 2013 (KB3162075) 64-Bit Edition
+Security Update for Microsoft Office 2013 (KB3172459) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3055007) 64-Bit Edition
+Microsoft Access MUI (Chinese (Simplified)) 2013
+Security Update for Microsoft Access 2013 (KB4018351) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition
+Microsoft Excel MUI (Chinese (Simplified)) 2013
+Security Update for Microsoft Excel 2013 (KB4032241) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3054819) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition
+Microsoft PowerPoint MUI (Chinese (Simplified)) 2013
+Security Update for Microsoft Excel 2013 (KB4032241) 64-Bit Edition
+Update for Microsoft PowerPoint 2013 (KB4018374) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition
+Microsoft Publisher MUI (Chinese (Simplified)) 2013
+Update for Microsoft Publisher 2013 (KB3114329) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition
+Microsoft Outlook MUI (Chinese (Simplified)) 2013
+Update for Microsoft Outlook Social Connector 2013 (KB3054854) 64-Bit Edition
+Security Update for Microsoft Outlook 2013 (KB4032240) 64-Bit Edition
+Security Update for Microsoft Word 2013 (KB4011590) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition
+Microsoft Word MUI (Chinese (Simplified)) 2013
+Security Update for Microsoft Excel 2013 (KB4032241) 64-Bit Edition
+Security Update for Microsoft Word 2013 (KB4011590) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition
+Microsoft Office Proofing Tools 2013 - English
+Security Update for Microsoft Office 2013 (KB2880463) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition
+Security Update for Microsoft Office 2013 (KB2880463) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition
+Microsoft Office 校对工具 2013 - 简体中文
+Security Update for Microsoft Office 2013 (KB2880463) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition
+Security Update for Microsoft Office 2013 (KB2880463) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition
+Microsoft Office Proofing (Chinese (Simplified)) 2013
+Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition
+Microsoft InfoPath MUI (Chinese (Simplified)) 2013
+Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition
+Update for Microsoft InfoPath 2013 (KB3114946) 64-Bit Edition
+Microsoft Office Shared MUI (Chinese (Simplified)) 2013
+Security Update for Microsoft Office 2013 (KB4011103) 64-Bit Edition
+Security Update for Microsoft Office 2013 (KB4011580) 64-Bit Edition
+Update for Microsoft Office 2013 (KB4018333) 64-Bit Edition
+Update for Microsoft Visio Viewer 2013 (KB2817301) 64-Bit Edition
+Security Update for Microsoft Office 2013 (KB4022188) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3023052) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition
+Update for Microsoft InfoPath 2013 (KB3114946) 64-Bit Edition
+Security Update for Microsoft Office 2013 (KB3172459) 64-Bit Edition
+Microsoft DCF MUI (Chinese (Simplified)) 2013
+Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition
+Microsoft OneNote MUI (Chinese (Simplified)) 2013
+Update for Microsoft OneNote 2013 (KB4011281) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition
+Microsoft Groove MUI (Chinese (Simplified)) 2013
+Update for Microsoft OneDrive for Business (KB4022226) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition
+Microsoft Office 32-bit Components 2013
+Security Update for Microsoft Office 2013 (KB3039798) 64-Bit Edition
+Security Update for Microsoft Office 2013 (KB4011103) 64-Bit Edition
+Update for Microsoft OneDrive for Business (KB4022226) 64-Bit Edition
+Security Update for Microsoft Access 2013 (KB4018351) 64-Bit Edition
+Update for Microsoft Publisher 2013 (KB3114329) 64-Bit Edition
+Update for Microsoft Project 2013 (KB4022171) 64-Bit Edition
+Security Update for Microsoft Excel 2013 (KB4032241) 64-Bit Edition
+Update for Microsoft OneNote 2013 (KB4011281) 64-Bit Edition
+Update for Microsoft Office 2013 (KB4018333) 64-Bit Edition
+Security Update for Microsoft Word 2013 (KB4011590) 64-Bit Edition
+Update for Microsoft PowerPoint 2013 (KB4018374) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition
+Update for Microsoft InfoPath 2013 (KB3114946) 64-Bit Edition
+Microsoft Office Shared 32-bit MUI (Chinese (Simplified)) 2013
+Update for Microsoft OneDrive for Business (KB4022226) 64-Bit Edition
+Security Update for Microsoft Excel 2013 (KB4032241) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition
+Microsoft Office OSM MUI (Chinese (Simplified)) 2013
+Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition
+Microsoft Office OSM UX MUI (Chinese (Simplified)) 2013
+Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition
+Microsoft Lync MUI (Chinese (Simplified)) 2013
+Security Update for Microsoft Word 2013 (KB4011590) 64-Bit Edition
+Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition
+Microsoft Office Proofing Tools 2016 - English
+Update for Microsoft Office 2016 (KB3178662) 64-Bit Edition
+Microsoft Office 校对工具 2016 - 简体中文
+Update for Microsoft Office 2016 (KB3178662) 64-Bit Edition
+Microsoft Office Proofing (Chinese (Simplified)) 2016
+Microsoft Visio Professional 2016
+Security Update for Microsoft Office 2016 (KB3115135) 64-Bit Edition
+Update for Microsoft Office 2016 (KB4022133) 64-Bit Edition
+Security Update for Microsoft Office 2016 (KB3191944) 64-Bit Edition
+Update for Microsoft Office 2016 (KB3213650) 64-Bit Edition
+Update for Microsoft Office 2016 (KB4011259) 64-Bit Edition
+Definition Update for Microsoft Office 2016 (KB3115407) 64-Bit Edition
+Update for Microsoft Office 2016 (KB4022223) 64-Bit Edition
+Update for Microsoft Office 2016 (KB4032237) 64-Bit Edition
+Update for Microsoft Office 2016 (KB2920684) 64-Bit Edition
+Update for Microsoft Outlook 2016 (KB4092462) 64-Bit Edition
+Update for Microsoft Office 2016 (KB4022193) 64-Bit Edition
+Update for Microsoft Office 2016 (KB3141457) 64-Bit Edition
+Update for Microsoft Office 2016 (KB3203479) 64-Bit Edition
+Security Update for Microsoft Office 2016 (KB4011628) 64-Bit Edition
+Security Update for Microsoft Office 2016 (KB3085538) 64-Bit Edition
+Update for Microsoft Office 2016 (KB4011670) 64-Bit Edition
+Update for Microsoft Office 2016 (KB3118262) 64-Bit Edition
+Update for Microsoft Office 2016 (KB2920720) 64-Bit Edition
+Update for Microsoft Office 2016 (KB2910954) 64-Bit Edition
+Update for Microsoft Office 2016 (KB4011634) 64-Bit Edition
+Update for Microsoft Office 2016 (KB3118263) 64-Bit Edition
+Security Update for Microsoft Office 2016 (KB4022172) 64-Bit Edition
+Update for Microsoft Office 2016 (KB2920712) 64-Bit Edition
+Update for Microsoft Office 2016 (KB2920724) 64-Bit Edition
+Update for Microsoft Office 2016 (KB3118264) 64-Bit Edition
+Update for Microsoft Office 2016 (KB4011035) 64-Bit Edition
+Security Update for Microsoft Office 2016 (KB4022176) 64-Bit Edition
+Update for Microsoft Visio 2016 (KB4018325) 64-Bit Edition
+Update for Microsoft Office 2016 (KB4092449) 64-Bit Edition
+Update for Microsoft Office 2016 (KB2920678) 64-Bit Edition
+Update for Microsoft Office 2016 (KB4022215) 64-Bit Edition
+Update for Microsoft Office 2016 (KB3178666) 64-Bit Edition
+Update for Microsoft Office 2016 (KB4018371) 64-Bit Edition
+Security Update for Microsoft Office 2016 (KB4011143) 64-Bit Edition
+Update for Microsoft Office 2016 (KB4011569) 64-Bit Edition
+Microsoft Visio MUI (Chinese (Simplified)) 2016
+Update for Microsoft Visio 2016 (KB4018325) 64-Bit Edition
+Microsoft Office Shared MUI (Chinese (Simplified)) 2016
+Security Update for Microsoft Office 2016 (KB3191944) 64-Bit Edition
+Update for Microsoft Office 2016 (KB4022223) 64-Bit Edition
+Security Update for Microsoft Office 2016 (KB3213551) 64-Bit Edition
+Update for Microsoft Office 2016 (KB3114903) 64-Bit Edition
+Security Update for Microsoft Office 2016 (KB4022176) 64-Bit Edition
+Security Update for Microsoft Office 2016 (KB4011574) 64-Bit Edition
+Microsoft Office 32-bit Components 2016
+Update for Microsoft Office 2016 (KB4022133) 64-Bit Edition
+Update for Skype for Business 2016 (KB4032255) 64-Bit Edition
+Security Update for Microsoft Office 2016 (KB3191944) 64-Bit Edition
+Update for Microsoft Office 2016 (KB3213650) 64-Bit Edition
+Update for Microsoft Office 2016 (KB4022223) 64-Bit Edition
+Update for Microsoft Office 2016 (KB4032237) 64-Bit Edition
+Update for Microsoft Office 2016 (KB3141457) 64-Bit Edition
+Security Update for Microsoft Office 2016 (KB3085538) 64-Bit Edition
+Update for Microsoft Word 2016 (KB4032258) 64-Bit Edition
+Update for Microsoft Office 2016 (KB4011670) 64-Bit Edition
+Security Update for Microsoft Access 2016 (KB4018338) 64-Bit Edition
+Update for Microsoft Project 2016 (KB4032238) 64-Bit Edition
+Update for Microsoft Office 2016 (KB4011634) 64-Bit Edition
+Update for Microsoft PowerPoint 2016 (KB4092446) 64-Bit Edition
+Update for Microsoft OneNote 2016 (KB4022216) 64-Bit Edition
+Update for Microsoft Publisher 2016 (KB3178696) 64-Bit Edition
+Update for Microsoft OneDrive for Business (KB4022219) 64-Bit Edition
+Update for Microsoft Visio 2016 (KB4018325) 64-Bit Edition
+Update for Microsoft Office 2016 (KB2920678) 64-Bit Edition
+Update for Microsoft Office 2016 (KB4022215) 64-Bit Edition
+Update for Microsoft Office 2016 (KB4018371) 64-Bit Edition
+Microsoft Office Shared 32-bit MUI (Chinese (Simplified)) 2016
+Security Update for Microsoft Office 2016 (KB3191944) 64-Bit Edition
+Update for Microsoft OneDrive for Business (KB4022219) 64-Bit Edition
+Microsoft Office OSM MUI (Chinese (Simplified)) 2016
+Microsoft SQL Server 2012 Command Line Utilities 
+Microsoft .NET Core Host FX Resolver - 2.1.1 (x64)
+Node.js 
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005
+Microsoft .NET Core Host FX Resolver - 2.1.3 Release Candidate 1 (x64)
+Microsoft .NET Core SDK - 2.1.104 (x64)
+.NET Core SDK 1.1.7 (x64)
+Microsoft .NET Core SDK - 2.0.3 (x64)
+Microsoft ASP.NET Core 2.1.1 Shared Framework (x64)
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005
+Microsoft .NET Core Runtime - 2.0.9 (x64)
+Microsoft .NET Core Host FX Resolver - 2.0.6 (x64)
+Microsoft .NET Core Host FX Resolver - 2.1.2 (x64)
+Microsoft .NET Core Runtime - 2.1.2 (x64)
+VMware Workstation
+Microsoft Web Deploy 4.0
+Microsoft Visual C++ 2017 x64 Minimum Runtime - 14.11.25325
+Microsoft ASP.NET Core 2.1.2 Shared Framework (x64)
+Microsoft Visual C++ 2017 x64 Additional Runtime - 14.11.25325
+Microsoft ASP.NET Core Module
+Ansel 
+NVIDIA 控制面板 382.53
+NVIDIA Install Application
+NVIDIA Display Container
+NVIDIA Display Container LS
+NVIDIA Display Watchdog Plugin
+NVIDIA Display Session Container
+Microsoft Azure Compute Emulator - v2.9.5.3
+Microsoft .NET Core 1.0.9 - Host FX Resolver (x64)
+Microsoft .NET Core Host - 2.1.0 (x64)
+Microsoft Azure Libraries for .NET – v2.9
+Microsoft .NET Core SDK - 2.1.102 (x64)
+Microsoft Visual Studio Team Foundation Server 2017 RC Office Integration Language Pack (x64) - ENU
+Microsoft .NET Core 1.1.1 - Host (x64)
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+Microsoft .NET Core 1.0.9 - Host (x64)
+Microsoft .NET Core Runtime - 2.0.6 (x64)
+Microsoft .NET Core Host FX Resolver - 2.0.5 (x64)
+Microsoft ASP.NET Core Module for IIS Express
+Microsoft SQL Server 2012 Native Client 
+icecap_collection_x64 
+DiagnosticsHub_CollectionService 
+Microsoft Visual Studio Code
+Microsoft .NET Core Host - 2.1.2 (x64)
+Microsoft .NET Core SDK - 2.1.200 (x64)
+Microsoft .NET Core Runtime - 2.1.3 Release Candidate 1 (x64)
+Microsoft System CLR Types for SQL Server 2017
+Microsoft .NET Core Runtime - 2.0.3 (x64)
+Microsoft .NET Core Runtime - 2.1.0 (x64)
+Microsoft .NET Core 1.1.1 - Host FX Resolver (x64)
+Microsoft .NET Core Runtime - 2.1.1 (x64)
+Microsoft .NET Core SDK 2.1.400 (x64)
+TortoiseSVN 1.9.7.27907 (64 bit)
+Microsoft System CLR Types for SQL Server vNext CTP1.6
+360杀毒 
+360安全卫士 
+Visual Studio Enterprise 2017
+Foxmail 
+Oracle Developer Tools for Visual Studio 2017
+Microsoft Azure Storage Emulator - v5.6
+JetBrains PhpStorm 2017.1.4
+PL/SQL Developer 11.0.6.1776
+微信 
+WinRAR 4.01 (32 位)
+XMind 8 Update 5 (v3.7.5)
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.11.25325
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+腾讯QQ 
+Microsoft Portable Library Multi-Targeting Pack Language Pack - chs
+Microsoft .NET Core SDK - 2.1.202 (x64)
+vs_minshellmsi 
+icecap_collectionresourcesx64 
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005
+Microsoft .NET Framework 4.7.1 Doc Redirected 目标包(简体中文)
+Microsoft .NET Framework 4.7.2 Targeting Pack
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.30319
+Microsoft .NET Framework 4.5.2 Multi-Targeting Pack
+vs_tipsmsi 
+Microsoft .NET Framework 4.6.2 SDK (简体中文)
+TypeScript SDK
+Microsoft .NET Framework 4.6.2 目标包(简体中文)
+Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (ENU)
+icecap_collectionresources 
+Microsoft .NET Core SDK - 2.1.100 (x64)
+Microsoft .NET Framework 4.6 Targeting Pack
+vcpp_crt.redist.clickonce 
+Microsoft .NET Framework 4.6.1 SDK
+vs_filehandler_x86 
+Microsoft .NET Core SDK 2.1.400 (x64)
+Microsoft Azure Storage Emulator - v5.6
+Microsoft ASP.NET Web Tools Packages 15.0 - CHS
+vs_communitymsires 
+vs_minshellinteropmsi 
+vs_communitymsires 
+Microsoft Visual C++ 2017 Redistributable (x86) - 14.11.25325
+Microsoft .NET Core SDK 2.1.401 (x64)
+icecap_collectionresources 
+Microsoft .NET Framework 4.7 目标包(简体中文)
+Microsoft .NET Core 1.0.4 & 1.1.1 - Windows Server Hosting
+vs_communitymsi 
+VS Immersive Activate Helper
+Microsoft .NET Framework 4.7.1 Targeting Pack
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.11.25325
+Microsoft .NET Framework 4.5 Multi-Targeting Pack
+vs_SQLClickOnceBootstrappermsi 
+Realtek Card Reader
+Microsoft .NET Core SDK - 2.1.200 (x64)
+Microsoft .NET Core 1.0.4 - Runtime (x64)
+Microsoft .NET Core SDK - 2.0.3 (x64)
+Microsoft .NET Framework 4.7.2 目标包(简体中文)
+Microsoft .NET Framework 4.6.2 SDK
+vs_networkemulationmsi_x64 
+Microsoft .NET Framework 4.5.1 Multi-Targeting Pack
+vs_clickoncesigntoolmsi 
+Microsoft Visual C++ 2017 Redistributable (x64) - 14.11.25325
+vs_minshellmsires 
+vs_enterprisemsi 
+Windows Phone SDK 8.0 Assemblies for Visual Studio 2017
+Composer - Php Dependency Manager
+Microsoft NetStandard SDK
+Microsoft .NET Core SDK - 2.1.103 (x64)
+.NET Core SDK 1.1.7 (x64)
+Microsoft Portable Library Multi-Targeting Pack
+vs_minshellmsires 
+Microsoft .NET Framework 4.7 Targeting Pack (ENU)
+Microsoft System CLR Types for SQL Server vNext CTP1.6
+Mockplus 版本 3.2.8
+Microsoft .NET Framework 4.6.1 Targeting Pack
+vs_FileTracker_Singleton 
+Microsoft .NET Framework 4.7.1 Doc Redirected Targeting Pack (ENU)
+vs_clickoncebootstrappermsires 
+Microsoft .NET Framework 4.6.1 SDK (简体中文)
+Microsoft .NET Core SDK - 2.1.2 (x64)
+Microsoft .NET Framework 4.7.1 SDK (简体中文)
+icecap_collectionresourcesx64 
+Microsoft .NET Core SDK - 2.1.102 (x64)
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+Microsoft Visual Studio Setup Configuration
+Microsoft .NET Core SDK - 2.1.4 (x64)
+Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (简体中文)
+Microsoft .NET Framework 4.6.2 Targeting Pack
+icecap_collection_neutral 
+Microsoft .NET Framework 4.7.2 SDK (简体中文)
+vs_clickoncebootstrappermsi 
+Microsoft .NET Core 1.1.1 - Runtime (x64)
+Sybase PowerDesigner 16.5
+IntelliTraceProfilerProxy 
+vs_codecoveragemsi 
+Microsoft ASP.NET Web Tools Packages 15.0 - ENU
+Microsoft Windows Communication Foundation Diagnostic Pack for x86
+Microsoft .NET Framework 4.7.2 Targeting Pack (ENU)
+Entity Framework 6.2.0 Tools  for Visual Studio 2017
+Microsoft .NET Framework 4.7.1 SDK
+Microsoft .NET Framework 4.7 SDK (简体中文)
+Microsoft Portable Library Multi-Targeting Pack Language Pack - enu
+vs_devenvmsi 
+Microsoft .NET Core SDK - 2.1.104 (x64)
+vs_professionalmsi 
+vs_BlendMsi 
+Microsoft .NET Framework 4.6.2 Targeting Pack (ENU)
+Microsoft .NET Framework 4.7 Targeting Pack
+TypeScript SDK
+Microsoft .NET Framework 4 Multi-Targeting Pack
+vcpp_crt.redist.clickonce 
+ClickOnce Bootstrapper Package for Microsoft .NET Framework
+Microsoft .NET Core SDK - 2.1.201 (x64)
+Oracle Developer Tools for Visual Studio 2017
+vs_filehandler_amd64 
+Microsoft ASP.NET Diagnostic Pack for Visual Studio
+Microsoft TestPlatform SDK Local Feed
+Microsoft .NET Framework 4.7.2 Developer Pack
+Microsoft .NET Framework 4.7.2 开发人员工具包(简体中文)
+Microsoft .NET Framework 4.6.2 Developer Pack
+Intel(R) Processor Graphics
+Realtek High Definition Audio Driver
+Microsoft .NET Core SDK 2.1.300 (x64)
+Microsoft .NET Framework 4.7.2 SDK
+Microsoft .NET Framework 4.7 SDK
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005
+Microsoft .NET Core SDK 2.1.301 (x64)
+Microsoft System CLR Types for SQL Server 2017
+微信web开发者工具 1.02.1804251
+百度网盘 
+钉钉 
+Google Chrome
+Postman-win64-6.3.0
+Microsoft Visual Studio Code (User)
+USB Information:
+    USB is Open,Please Tag It.
+Language Code:
+    Language:gbk
+Admin Users:
+      Administrator
+      JS_Face
+Power Users:
+
+FileShare Information:
+ C$           C:\                             默认共享                          
+ D$           D:\                             默认共享                          
+ IPC$                                         远程 IPC                          
+ ADMIN$       C:\WINDOWS                      远程管理                          

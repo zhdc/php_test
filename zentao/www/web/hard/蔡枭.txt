@@ -1,0 +1,209 @@
+System Information: 
+      Computer Name = DESKTOP-96CQUJE
+      OS       Type = Windows 10 专业版 64-bit (10.0, Build 17134) (17134.rs4_release.180410-1804)
+      System  Model = C.H110M-K PRO
+      CPU     Model = Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz (4 CPUs), ~3.0GHz
+      RAM      Size = 8192MB RAM
+DisplayCard : 
+      Display  Card = Intel(R) HD Graphics 630
+      DisplayMemory = 4164 MB
+Mother Board:
+      Manufacturer     =Colorful Technology And Development Co.,LTD
+      MotherBoard Model=C.H110M-K PRO
+Hard Disk: 
+      Model=Colorful SL500 240GB
+      Size=240054796800
+      
+      
+      
+Network Card:
+     NetCard Model = Realtek PCIe GBE Family Controller
+     NetCard Model = TAP-Windows Adapter V9
+     MAC Address = 00-CF-E0-43-B5-2A
+     MAC Address = 00-FF-9C-60-F1-01
+     IP Address =  192.168.0.155(首选) 
+
+Software Information:
+Android Studio
+Microsoft Azure Compute Emulator - v2.9.5.3
+PremiumSoft Navicat Premium 11.2
+Vulkan Run Time Libraries 1.0.54.1
+Vulkan Run Time Libraries 1.0.65.1
+WinRAR 5.50 (64-位)
+用于 SQL Server 的 Active Directory Authentication Library
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664
+Microsoft SQL Server 2016 LocalDB
+Microsoft Azure Authoring Tools - v2.9.5.3
+Python 3.6.5 Standard Library (64-bit)
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+Python 3.6.5 Tcl/Tk Support (64-bit)
+Microsoft .NET Core Host - 2.0.3 (x64)
+Microsoft Visual C++ 2017 x64 Additional Runtime - 14.12.25810
+DiagnosticsHub_CollectionService 
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61135
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.7523
+Intel? Hardware Accelerated Execution Manager
+Microsoft Web Deploy 3.6
+Microsoft ASP.NET Core Module for IIS Express
+Python 3.6.5 Development Libraries (64-bit)
+icecap_collection_x64 
+Microsoft Visual Studio Team Foundation Server 2017 RC Office Integration (x64)
+Microsoft Visual Studio 2017
+VS JIT Debugger
+Microsoft .NET Core Host FX Resolver - 2.0.3 (x64)
+Microsoft SQL Server 2012 Command Line Utilities 
+Node.js 
+Python 3.6.5 Utility Scripts (64-bit)
+Microsoft .NET Core SDK - 2.0.3 (x64)
+IIS 10.0 Express
+Microsoft System CLR Types for SQL Server 2017 CTP2.1
+VS Script Debugging Common
+Microsoft Visual C++ 2005 Redistributable (x64)
+Python 3.6.5 Add to Path (64-bit)
+Python 3.6.5 Executables (64-bit)
+Python 3.6.5 Documentation (64-bit)
+Microsoft Azure Compute Emulator - v2.9.5.3
+Python 3.6.5 Test Suite (64-bit)
+Microsoft Azure Libraries for .NET – v2.9
+Redis on Windows
+Microsoft Visual C++ 2017 x64 Minimum Runtime - 14.12.25810
+Python 3.6.5 Core Interpreter (64-bit)
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61135
+Microsoft ASP.NET Core 2.0.3 Runtime Package Store (x64)
+Microsoft Visual Studio Team Foundation Server 2017 RC Office Integration Language Pack (x64) - ENU
+Microsoft SQL Server 2012 Native Client 
+Python 3.6.5 pip Bootstrap (64-bit)
+Microsoft Visual Studio Code
+VS WCF Debugging
+MySQL Server 5.7
+IntelliTraceProfilerProxy 
+Microsoft .NET Core Runtime - 2.0.3 (x64)
+TortoiseSVN 1.9.7.27907 (64 bit)
+Wampserver64 3.0.4
+看图王 - 2345
+360安全卫士 
+Foxmail 
+Oracle Developer Tools for Visual Studio 2017
+IntelliJ IDEA 2017.3.3
+Microsoft Azure Storage Emulator - v5.2
+Microsoft Visual J# 2.0 Redistributable Package
+Notepad++ (32-bit x86)
+JetBrains PhpStorm 2017.3.2
+PL/SQL Developer 11.0.6.1776
+JetBrains PyCharm 2017.3.3
+QQ拼音输入法6.0 
+Redis Desktop Manager
+JetBrains WebStorm 2017.3.1
+微信 
+XMind 8 Update 5 (v3.7.5)
+vs_BlendMsi 
+vs_tipsmsi 
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+腾讯QQ 
+Microsoft Portable Library Multi-Targeting Pack Language Pack - chs
+IntelliTraceProfilerProxy 
+Microsoft .NET Framework 4.7.1 Developer Pack
+Microsoft .NET Framework 4.5.2 Multi-Targeting Pack
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664
+vs_filehandler_x86 
+Java 8 Update 144
+Microsoft .NET Framework 4.7 Developer Pack
+Microsoft .NET Framework 4.6 Targeting Pack
+Microsoft .NET Framework 4.6.1 SDK
+Java SE Development Kit 8 Update 144
+Microsoft .NET Framework 4.7 SDK
+vs_FileTracker_Singleton 
+vs_communitymsires 
+Microsoft Windows Communication Foundation Diagnostic Pack for x86
+vs_clickoncesigntoolmsi 
+Java Auto Updater
+vs_communitymsi 
+Microsoft .NET Framework 4.7.1 Targeting Pack
+Microsoft Visual C++ 2017 Redistributable (x86) - 14.12.25810
+Microsoft .NET Framework 4.5 Multi-Targeting Pack
+vs_SQLClickOnceBootstrappermsi 
+Microsoft .NET Core SDK - 2.0.3 (x64)
+Microsoft Visual Studio Setup Configuration
+vs_minshellmsi 
+Microsoft Visual J# 2.0 Redistributable Package
+Microsoft System CLR Types for SQL Server 2017 CTP2.1
+Microsoft .NET Framework 4.5.1 Multi-Targeting Pack
+Microsoft Visual C++ 2005 Redistributable
+Microsoft ASP.NET Web Tools Packages 15.0 - ENU
+Microsoft NetStandard SDK
+虾米音乐版本3.1.2 
+icecap_collection_neutral 
+MySQL Installer - Community
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.12.25810
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664
+Microsoft Portable Library Multi-Targeting Pack
+vs_minshellmsires 
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.12.25810
+Microsoft .NET Framework 4.7 Targeting Pack (ENU)
+Microsoft ASP.NET Packages for MVC 4 - CHS
+Python Launcher
+Mockplus 版本 3.2.10.2
+Microsoft .NET Framework 4.6.1 Targeting Pack
+icecap_collectionresources 
+Microsoft .NET Framework 4.6.1 SDK (简体中文)
+Microsoft Azure Storage Emulator - v5.2
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.7523
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+Sybase PowerDesigner 16.5
+Microsoft .NET Framework 4.7.1 Targeting Pack (ENU)
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61135
+Microsoft ASP.NET Packages for MVC 4 - ENU
+Microsoft .NET Framework 4.7.1 SDK
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61135
+vs_devenvmsi 
+vs_professionalmsi 
+vs_clickoncebootstrappermsires 
+icecap_collectionresourcesx64 
+Microsoft ASP.NET Diagnostic Pack for Visual Studio
+vcpp_crt.redist.clickonce 
+TypeScript SDK
+Microsoft .NET Framework 4 Multi-Targeting Pack
+vs_minshellinteropmsi 
+Oracle Developer Tools for Visual Studio 2017
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664
+Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (简体中文)
+vs_clickoncebootstrappermsi 
+vs_filehandler_amd64 
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664
+Microsoft Visual C++ 2017 Redistributable (x64) - 14.12.25810
+ClickOnce Bootstrapper Package for Microsoft .NET Framework
+Microsoft .NET Framework 4.7 Targeting Pack
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+Intel(R) Processor Graphics
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501
+Entity Framework 6.1.3 Tools  for Visual Studio 15
+Microsoft ASP.NET Web Tools Packages 15.0 - CHS
+人行征信中心密码控件IE版 
+微信web开发者工具 1.02.1803210
+百度网盘 
+钉钉 
+360安全浏览器
+NuGet Package Explorer
+Google Chrome
+WPS Office (10.1.0.7400)
+Microsoft OneDrive
+JetBrains ReSharper Ultimate in Visual Studio Professional 2017
+Python 3.6.5 (64-bit)
+USB Information:
+    USB is Open,Please Tag It.
+Language Code:
+    Language:gbk
+Admin Users:
+      Administrator
+      JueSha
+Power Users:
+
+FileShare Information:
+ C$           C:\                             默认共享                          
+ D$           D:\                             默认共享                          
+ E$           E:\                             默认共享                          
+ IPC$                                         远程 IPC                          
+ ADMIN$       C:\WINDOWS                      远程管理                          

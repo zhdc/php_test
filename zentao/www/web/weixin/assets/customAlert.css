@@ -1,0 +1,10 @@
+﻿/*--------自定义弹窗-样式-----------*/
+.titpop-backdrop{position:fixed;top:0;left:0;right:0; bottom:0;z-index:1040;background:url(/tit-pop-bg.png) repeat;}
+.titpop-box{width:300px;  position:relative; z-index:1050; margin:100px auto; background:#fff; border-radius:10px; border:1px solid #dcdcdc;}
+.titpop-box  .titpop-btn-close{display:block;position:absolute; top:10px; right:10px; color:#817676; font-size:20px; height:24px; width:24px; cursor:pointer; }
+.titpop-box  p.titpop-hh{width:94%; margin:0 auto; text-align:center; padding-top:50px; color:#242424;font-size:18px;}
+.titpop-box  p.titpop-pp{width:76%; margin:0 auto; text-align:left; padding-top:10px; color:#242424;font-size:14px;}
+/*.titpop-box  p.titpop-pp img{ display:inline-block; vertical-align:middle;}
+.titpop-box  p.titpop-pp span{ display:inline-block; vertical-align:middle;  text-align:justify;}*/
+ 
+.titpop-box .titpop-btn-checked{ display:block;width:90px; height:30px; background:#fdedf3; border:1px solid #fba7ac; text-align:center; margin:20px auto 30px auto; color:#b01f24 ; font-size:16px; line-height:30px; border-radius:5px;cursor:pointer;}

@@ -1,0 +1,179 @@
+System Information: 
+      Computer Name = DESKTOP-7F1RU15
+      OS       Type = Windows 10 专业版 64-bit (10.0, Build 16299) (16299.rs3_release.170928-1534)
+      System  Model = System Product Name
+      CPU     Model = Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz (4 CPUs), ~3.4GHz
+      RAM      Size = 12288MB RAM
+DisplayCard : 
+      Display  Card = Intel(R) HD Graphics 630
+      DisplayMemory = 6206 MB
+Mother Board:
+      Manufacturer     =ASUSTeK COMPUTER INC.
+      MotherBoard Model=B250M-BASALT
+Hard Disk: 
+      Model=WDC WD10EZEX-08WN4A0
+      Size=1000202273280
+      
+      
+      
+Network Card:
+     NetCard Model = Realtek PCIe GBE Family Controller
+     MAC Address = B0-6E-BF-BE-8B-FC
+     IP Address =  192.168.0.123(首选) 
+
+Software Information:
+Mozilla Firefox 59.0 (x64 zh-CN)
+Vulkan Run Time Libraries 1.0.54.1
+Vulkan Run Time Libraries 1.0.61.0
+Microsoft Visual C++ 2005 Redistributable (x64)
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+Языковой пакет для поддержки размещения набора средств Microsoft Visual Studio Tools для работы с приложениями 2012 (x64) - RUS
+Microsoft Visual C++ 2017 x64 Additional Runtime - 14.12.25810
+Microsoft Visual Studio Tools for Applications 2012 x64 Hosting Support - ??? ?? ?
+Microsoft Visual Studio Tools for Applications 2012 x64 Hosting Support - DEU-Sprachpaket
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+Corel Graphics - Windows Shell Extension 64 Bit
+Microsoft Visual Studio Tools for Applications 2012 x64 Hosting Support
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+Microsoft Visual Studio Tools for Applications 2012 x64 Hosting Support - Language Pack ITA
+Microsoft Visual Studio Tools for Applications 2012 x64 Hosting Support - 日本語 Language Pack
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17
+TortoiseSVN 1.10.1.28295 (64 bit)
+KMSpico 
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005
+Microsoft Visual C++ 2005 Redistributable (x64)
+NVIDIA Ansel
+NVIDIA 3D Vision 驱动程序 388.13
+NVIDIA 控制面板 388.13
+NVIDIA 图形驱动程序 388.13
+NVIDIA HD 音频驱动程序 1.3.35.1
+NVIDIA Install Application
+NVIDIA Display Container
+NVIDIA Display Container LS
+NVIDIA Display Watchdog Plugin
+NVIDIA Display Session Container
+Microsoft Visual Studio Tools for Applications 2012 x64 Hosting Support  - Module linguistique Fran?ais
+Microsoft Visual C++ 2017 x64 Minimum Runtime - 14.12.25810
+Microsoft Visual Studio Tools for Applications 2012 x64 托管支持 - 简体中文语言包
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+Microsoft Visual Studio Tools for Applications 2012 x64 Hosting Support - Paquete de idioma ESN
+Pacote de Idiomas do Microsoft Visual Studio Tools for Applications 2012 x64 Hosting Support - PTB
+Microsoft Visual Studio Tools for Applications 2012 x64 主控支援 - 繁體中文語言套件
+看图王 - 2345
+王牌输入法 - 2345
+360驱动大师 
+360杀毒 
+360压缩 
+360安全卫士 
+Adobe AIR
+Adobe Creative Cloud
+Axure RP
+PxCook 
+DirectX修复工具 3.5
+驱动精灵 
+Adobe Illustrator CC 2018
+MarkMan - 让设计更有爱！
+NVIDIA Stereoscopic 3D Driver
+Adobe Photoshop CC 2018
+QQ音乐 
+迅雷 
+微信 
+WeGame 
+XMind 8 Update 4 (v3.7.4)
+CorelDRAW Graphics Suite X6
+Corel Graphics - Windows Shell Extension
+Pacote de Idiomas do Microsoft Visual Studio Tools for Applications 2012 x86 Hosting Support - PTB
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+Microsoft Visual Studio Tools for Applications 2012 x86 主控支援 - 繁體中文語言套件
+Windows Installer Clean Up
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005
+Adobe After Effects CC 2015
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+MarkMan - 让设计更有爱！
+CorelDRAW Graphics Suite X6 - Common
+Microsoft Visual Studio Tools for Applications 2.0 Runtime
+CorelDRAW Graphics Suite X6 - CS
+CorelDRAW Graphics Suite X6 - Writing Tools
+Microsoft Visual Studio Tools for Applications 2012 x86 Hosting Support - Module linguistique Fran?ais
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+Apple 应用程序支持
+CorelDRAW Graphics Suite X6 - Setup Files
+Microsoft Visual C++ 2017 Redistributable (x86) - 14.12.25810
+CorelDRAW Graphics Suite X6 - FontNav
+Microsoft Visual Studio Tools for Applications 2012 Finalizer
+Microsoft Visual Studio Tools for Applications 2.0 Runtime Language Pack - CHS
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501
+CorelDRAW Graphics Suite X6 - Custom Data
+CorelDRAW Graphics Suite X6 - Redist
+Языковой пакет для поддержки размещения набора средств Microsoft Visual Studio Tools для работы с приложениями 2012 (x86) - RUS
+CorelDRAW Graphics Suite X6 - PHOTO-PAINT
+Microsoft Visual C++ 2005 Redistributable
+Microsoft Visual Studio Tools for Applications 2012 x86 托管支持 - 简体中文语言包
+Microsoft Visual C++ 2005 Redistributable
+CorelDRAW Graphics Suite X6 - Capture
+Apple Software Update
+CorelDRAW Graphics Suite X6 - Filters
+CorelDRAW Graphics Suite X6 - VSTA
+CorelDRAW Graphics Suite X6
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.12.25810
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.12.25810
+Microsoft Visual Studio Tools for Applications 2012 x86 Hosting Support - 日本語 Language Pack
+Corel Graphics - Windows Shell Extension
+CorelDRAW Graphics Suite X6 - VBA
+Microsoft Visual Studio Tools for Applications 2012
+Microsoft Visual Basic for Applications 7.1 (x86)
+Microsoft Visual Studio Tools for Applications 2012 x86 Hosting Support - ??? ?? ?
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+Microsoft Visual Studio Tools for Applications 2012 x86 Hosting Support - Paquete de idioma ESN
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+Microsoft Visual Studio Tools for Applications 2.0 Language Pack - CHS
+Axure RP
+Microsoft Visual Studio Tools for Applications 2.0 - ENU
+Adobe Reader XI (11.0.19) - Chinese Simplified
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+Microsoft Visual Studio Tools for Applications 2012 x86 Hosting Support - Language Pack ITA
+Microsoft Visual Basic for Applications 7.1 (x86) English
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+CorelDRAW Graphics Suite X6 - Draw
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft Visual Studio Tools for Applications 2012 x86 Hosting Support - DEU-Sprachpaket
+Adobe AIR
+Microsoft Visual Studio Tools for Applications 2012 x86 Hosting Support
+PxCook 
+CorelDRAW Graphics Suite X6 - Photozoom Plugin
+CorelDRAW Graphics Suite X6 - Connect
+CorelDRAW Graphics Suite X6 - IPM
+Microsoft Visual Basic for Applications 7.1 (x86) Chinese (Simplified)
+CorelDRAW Graphics Suite X6 - VideoBrowser
+Microsoft Visual C++ 2017 Redistributable (x64) - 14.12.25810
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+Intel(R) Processor Graphics
+Realtek High Definition Audio Driver
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005
+QuickTime 7
+百度网盘 
+蓝湖 
+金山数据恢复大师 
+360安全浏览器
+Google Chrome
+WPS Office (10.1.0.7521)
+Microsoft OneDrive
+USB Information:
+    USB is Open,Please Tag It.
+Language Code:
+    Language:gbk
+Admin Users:
+      Administrator
+      wang
+Power Users:
+
+FileShare Information:
+ C$           C:\                             默认共享                          
+ D$           D:\                             默认共享                          
+ E$           E:\                             默认共享                          
+ IPC$                                         远程 IPC                          
+ ADMIN$       C:\Windows                      远程管理                          

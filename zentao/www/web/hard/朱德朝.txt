@@ -1,0 +1,300 @@
+System Information: 
+      Computer Name = PV-3
+      OS       Type = Windows 10 专业版 64-bit (10.0, Build 16299) (16299.rs3_release.170928-1534)
+      System  Model = System Product Name
+      CPU     Model = Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz (4 CPUs), ~3.4GHz
+      RAM      Size = 8192MB RAM
+DisplayCard : 
+      Display  Card = Intel(R) HD Graphics 630
+      DisplayMemory = 4156 MB
+Mother Board:
+      Manufacturer     =ASUSTeK COMPUTER INC.
+      MotherBoard Model=H110M-K
+Hard Disk: 
+      Model=WDC WD10EZEX-08WN4A0
+      Size=1000202273280
+      
+      
+      
+Network Card:
+     NetCard Model = Realtek PCIe GBE Family Controller
+     NetCard Model = VirtualBox Host-Only Ethernet Adapter
+     NetCard Model = SVN Adapter V1.0
+     NetCard Model = VMware Virtual Ethernet Adapter for VMnet1
+     NetCard Model = VMware Virtual Ethernet Adapter for VMnet8
+     MAC Address = 2C-FD-A1-E3-51-63
+     MAC Address = 0A-00-27-00-00-08
+     MAC Address = 00-FF-B4-72-24-F8
+     MAC Address = 00-50-56-C0-00-01
+     MAC Address = 00-50-56-C0-00-08
+     IP Address =  192.168.0.141(首选) 
+     IP Address =  192.168.56.1(首选) 
+     IP Address =  192.168.246.1(首选) 
+     IP Address =  192.168.163.1(首选) 
+
+Software Information:
+Git version 2.17.0
+Microsoft Azure Compute Emulator - v2.9.5.3
+Notepad++ (64-bit x64)
+Microsoft Project Professional 2016
+Microsoft Visio 专业版 2016
+PremiumSoft Navicat Premium 11.2
+Vulkan Run Time Libraries 1.0.65.0
+用于 SQL Server 的 Active Directory Authentication Library
+Microsoft SQL Server 2016 LocalDB
+Microsoft Visual Studio Team Foundation Server 2017 RC Office Integration Language Pack (x64) - ENU
+IIS Express Application Compatibility Database for x64
+Microsoft Azure Authoring Tools - v2.9.5.3
+VS WCF Debugging
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+Microsoft Visual C++ 2017 x64 Debug Runtime - 14.15.26706
+Microsoft Visual Studio Team Foundation Server 2017 RC Office Integration (x64)
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61135
+Windows SDK for Windows Store Apps DirectX x64 Remote
+PuTTY release 0.70 (64-bit)
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148
+VS JIT Debugger
+IIS 10.0 Express
+IntelliTraceProfilerProxy 
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+Application Verifier x64 External Package
+Windows SDK DirectX x64 Remote
+Microsoft Visual Studio Installer
+MySQL Connector/ODBC 8.0
+MySQL Server 5.7
+VS Script Debugging Common
+Microsoft Office Proofing Tools 2016 - English
+Microsoft Office 校对工具 2016 - 简体中文
+Microsoft Office Proofing (Chinese (Simplified)) 2016
+Microsoft Project Professional 2016
+Microsoft Visio Professional 2016
+Microsoft Visio MUI (Chinese (Simplified)) 2016
+Microsoft Office Shared MUI (Chinese (Simplified)) 2016
+Microsoft Project MUI (Chinese (Simplified)) 2016
+Microsoft Office 32-bit Components 2016
+Microsoft Office Shared 32-bit MUI (Chinese (Simplified)) 2016
+Microsoft Office OSM MUI (Chinese (Simplified)) 2016
+Microsoft SQL Server 2012 Command Line Utilities 
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005
+Microsoft .NET Core Host FX Resolver - 2.1.2 (x64)
+Microsoft .NET Core Runtime - 2.1.2 (x64)
+IIS Express Application Compatibility Database for x86
+Microsoft Visual C++ 2005 Redistributable (x64)
+VMware Workstation
+Microsoft Web Deploy 4.0
+Microsoft ASP.NET Core 2.1.2 Shared Framework (x64)
+NVIDIA 控制面板 391.01
+NVIDIA Install Application
+NVIDIA Display Container
+NVIDIA Display Container LS
+NVIDIA Display Watchdog Plugin
+NVIDIA Display Session Container
+MySQL Shell 8.0.11
+vs_Graphics_Singletonx64 
+Universal CRT Tools x64
+Microsoft Azure Compute Emulator - v2.9.5.3
+MySQL Router 8.0
+Microsoft Azure Libraries for .NET – v2.9
+Microsoft Visual C++ 2017 x64 Minimum Runtime - 14.15.26706
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61135
+Microsoft ASP.NET Core Module for IIS Express
+Oracle VM VirtualBox 5.2.8
+Microsoft SQL Server 2012 Native Client 
+icecap_collection_x64 
+DiagnosticsHub_CollectionService 
+MySQL Workbench 6.3 CE
+Windows App Certification Kit Native Components
+Microsoft .NET Core Host - 2.1.2 (x64)
+Microsoft Visual C++ 2017 x64 Additional Runtime - 14.15.26706
+Microsoft .NET Core SDK 2.1.400 (x64)
+TortoiseSVN 1.9.7.27907 (64 bit)
+Microsoft System CLR Types for SQL Server vNext CTP1.6
+Visual Studio Enterprise 2017
+福昕阅读器 
+Google Chrome
+HUAWEI AnyOffice VPN 3.0.2.5
+鲁大师 
+Microsoft Azure Storage Emulator - v5.6
+Microsoft Visual J# 2.0 Redistributable Package
+PDMReader 
+JetBrains PhpStorm 2017.3.2
+StarUML 5.0.2.1570
+财付通安全控件 2.0.2.8
+迅雷 
+TIM 
+UC浏览器 
+微信 
+WinRAR 5.50 (32-位)
+WinSCP 5.13.1
+XMind 8 Update 7 (v3.7.7)
+Windows SDK Desktop Libs arm64
+Windows SDK Desktop Libs x86
+Windows IoT Extension SDK
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+Microsoft Portable Library Multi-Targeting Pack Language Pack - chs
+vs_minshellmsi 
+Microsoft_VC90_CRT_x86 
+Universal CRT Headers Libraries and Sources
+Windows SDK for Windows Store Apps Libs
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005
+Windows SDK EULA
+Universal CRT Extension SDK
+Microsoft .NET Framework 4.5.2 Multi-Targeting Pack
+vs_tipsmsi 
+TypeScript SDK
+MSI Development Tools
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148
+MySQL Utilities
+Windows SDK for Windows Store Apps Contracts
+Windows SDK Desktop Headers x64
+Windows SDK Desktop Tools x86
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.15.26706
+Windows SDK Desktop Tools arm64
+icecap_collectionresources 
+Microsoft .NET Framework 4.6 Targeting Pack
+vcpp_crt.redist.clickonce 
+Microsoft .NET Framework 4.6.1 SDK
+vs_filehandler_x86 
+vs_Graphics_Singletonx86 
+Microsoft Visual Studio Setup Configuration
+MySQL Connector Net 8.0.11
+Microsoft .NET Core SDK 2.1.400 (x64)
+SDK ARM Additions
+Microsoft ASP.NET Diagnostic Pack for Visual Studio
+Microsoft Azure Storage Emulator - v5.6
+Windows SDK Desktop Headers arm64
+Microsoft ASP.NET Web Tools Packages 15.0 - CHS
+WinRT Intellisense Mobile - en-us
+WinRT Intellisense Desktop - en-us
+MySQL Connector J
+vs_communitymsires 
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.15.26706
+Windows SDK for Windows Store Apps Tools
+vs_minshellinteropmsi 
+Windows SDK Facade Windows WinMD Versioned
+WinRT Intellisense UAP - en-us
+Windows SDK for Windows Store Apps Headers
+Windows SDK ARM Desktop Tools
+Windows Team Extension SDK
+vs_communitymsi 
+MySQL Connector/C 6.1
+Windows SDK Modern Versioned Developer Tools
+Windows Mobile Extension SDK
+VS Immersive Activate Helper
+Microsoft .NET Framework 4.5 Multi-Targeting Pack
+vs_SQLClickOnceBootstrappermsi 
+Windows SDK Desktop Libs arm
+WinAppDeploy 
+Windows Software Development Kit - Windows 10.0.17134.12
+Google Update Helper
+Windows Desktop Extension SDK
+Windows SDK Desktop Headers x86
+vs_networkemulationmsi_x64 
+Microsoft Visual J# 2.0 Redistributable Package
+Microsoft .NET Framework 4.5.1 Multi-Targeting Pack
+vs_clickoncesigntoolmsi 
+vs_enterprisemsi 
+Universal CRT Tools x86
+Windows SDK for Windows Store Apps Metadata
+Kits Configuration Installer
+Windows Phone SDK 8.0 Assemblies for Visual Studio 2017
+Microsoft Visual C++ 2005 Redistributable
+MySQL Notifier 1.1.7
+WinRT Intellisense PPI - en-us
+Composer - Php Dependency Manager
+Microsoft NetStandard SDK
+Adobe Photoshop CS6
+Windows SDK
+Universal General MIDI DLS Extension SDK
+Microsoft Visual C++ 2017 Redistributable (x86) - 14.15.26706
+Windows App Certification Kit x64
+Microsoft Portable Library Multi-Targeting Pack
+vs_minshellmsires 
+SDK ARM Redistributables
+Windows Mobile Connectivity Tools 10.0.15254.0 - Desktop x86
+Windows SDK Desktop Headers arm
+WinRT Intellisense IoT - Other Languages
+Microsoft System CLR Types for SQL Server vNext CTP1.6
+Microsoft .NET Framework 4.6.1 Targeting Pack
+Windows SDK Signing Tools
+vs_FileTracker_Singleton 
+vs_clickoncebootstrappermsires 
+Microsoft_VC80_CRT_x86 
+Microsoft .NET Framework 4.6.1 SDK (简体中文)
+Microsoft Visual C++ 2017 Redistributable (x64) - 14.15.26706
+WinRT Intellisense IoT - en-us
+icecap_collectionresourcesx64 
+Windows SDK Modern Non-Versioned Developer Tools
+Windows Mobile Extension SDK Contracts
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (简体中文)
+Windows SDK Desktop Libs x64
+icecap_collection_neutral 
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+vs_clickoncebootstrappermsi 
+Windows SDK Desktop Tools x64
+Sybase PowerDesigner 16.5
+IntelliTraceProfilerProxy 
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61135
+vs_codecoveragemsi 
+Microsoft ASP.NET Web Tools Packages 15.0 - ENU
+Microsoft Windows Communication Foundation Diagnostic Pack for x86
+Universal CRT Redistributable
+Microsoft Visual C++ 2017 x86 Debug Runtime - 14.15.26706
+Entity Framework 6.2.0 Tools  for Visual Studio 2017
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61135
+vs_devenvmsi 
+Windows Desktop Extension SDK Contracts
+vs_professionalmsi 
+WinRT Intellisense UAP - Other Languages
+WinRT Intellisense Desktop - Other Languages
+MySQL Connector C++ 1.1.9
+vs_BlendMsi 
+Windows SDK for Windows Store Apps
+Windows SDK for Windows Store Apps DirectX x86 Remote
+Microsoft .NET Framework 4 Multi-Targeting Pack
+ClickOnce Bootstrapper Package for Microsoft .NET Framework
+Windows IoT Extension SDK Contracts
+Windows SDK Redistributables
+vs_filehandler_amd64 
+Microsoft TestPlatform SDK Local Feed
+Windows SDK for Windows Store Managed Apps Libs
+Windows SDK AddOn
+MySQL Examples and Samples 5.7
+MySQL Documents 5.7
+AdobePDFSettings11-new-ja_JP 
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+Realtek High Definition Audio Driver
+WinRT Intellisense PPI - Other Languages
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005
+MySQL Installer - Community
+Windows Team Extension SDK Contracts
+Windows SDK DirectX x86 Remote
+Windows App Certification Kit SupportedApiList x86
+微信web开发者工具 1.02.1803210
+有道云笔记 
+百度网盘 
+站长工具SEO客户端 
+网易云音乐 
+Amazon Kindle
+WPS Office (10.1.0.7224)
+Postman-win64-6.3.0
+网易有道词典
+USB Information:
+    USB is Open,Please Tag It.
+Language Code:
+    Language:gbk
+Admin Users:
+      Administrator
+Power Users:
+
+FileShare Information:
+ C$           C:\                             默认共享                          
+ D$           D:\                             默认共享                          
+ E$           E:\                             默认共享                          
+ F$           F:\                             默认共享                          
+ IPC$                                         远程 IPC                          
+ ADMIN$       C:\windows                      远程管理                          
