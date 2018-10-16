@@ -8,3 +8,4 @@
  * 版本：V1.0.0.0
  * 说明：
  */
+$config->testcase = new stdclass();
